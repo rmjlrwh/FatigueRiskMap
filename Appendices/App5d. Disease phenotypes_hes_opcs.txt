@@ -1,0 +1,500 @@
+opcs4code,opcs4codedescr,disease_new,disease_name_new,disease_number_new
+A651,Carpal tunnel release,Carpal tunnel syndrome,carpal_tunnel,193
+A692,Revision of carpal tunnel release,Carpal tunnel syndrome,carpal_tunnel,193
+C181,Correction of ptosis of eyelid using levator muscle technique,Ptosis of eyelid,ptosis,97
+C182,Correction of ptosis of eyelid using frontalis muscle technique,Ptosis of eyelid,ptosis,97
+C183,Correction of ptosis of eyelid using sling of fascia,Ptosis of eyelid,ptosis,97
+C184,Correction of ptosis of eyelid using superior rectus muscle technique,Ptosis of eyelid,ptosis,97
+C185,Tarsomullerectomy,Ptosis of eyelid,ptosis,97
+C186,Correction of ptosis of eyelid using aponeurosis technique,Ptosis of eyelid,ptosis,97
+C188,Other specified correction of ptosis of eyelid,Ptosis of eyelid,ptosis,97
+C189,Unspecified correction of ptosis of eyelid,Ptosis of eyelid,ptosis,97
+C601,Trabeculectomy,Glaucoma,glaucoma,93
+C602,Inclusion of iris,Glaucoma,glaucoma,93
+C603,Fixation of iris,Glaucoma,glaucoma,93
+C604,Iridoplasty NEC,Glaucoma,glaucoma,93
+C605,Insertion of tube into anterior chamber of eye to assist drainage of aqueous humour,Glaucoma,glaucoma,93
+C606,Viscocanulostomy,Glaucoma,glaucoma,93
+C608,Other specified filtering operations on iris,Glaucoma,glaucoma,93
+C609,Unspecified filtering operations on iris,Glaucoma,glaucoma,93
+C611,Laser trabeculoplasty,Glaucoma,glaucoma,93
+C612,Trabeculotomy,Glaucoma,glaucoma,93
+C613,Goniotomy,Glaucoma,glaucoma,93
+C614,Goniopuncture,Glaucoma,glaucoma,93
+C615,Viscogonioplasty,Glaucoma,glaucoma,93
+C618,Other specified other operations on trabecular meshwork of eye,Glaucoma,glaucoma,93
+C619,Unspecified other operations on trabecular meshwork of eye,Glaucoma,glaucoma,93
+C621,Iridosclerotomy,Glaucoma,glaucoma,93
+C622,Surgical iridotomy,Glaucoma,glaucoma,93
+C623,Laser iridotomy,Glaucoma,glaucoma,93
+C624,Correction iridodialysis NEC,Glaucoma,glaucoma,93
+C628,Other specified incision of iris,Glaucoma,glaucoma,93
+C629,Unspecified incision of iris,Glaucoma,glaucoma,93
+C711,Simple linear extraction of lens,Cataract,cataract,91
+C712,Phacoemulsification of lens,Cataract,cataract,91
+C713,Aspiration of lens,Cataract,cataract,91
+C718,Other specified extracapsular extraction of lens,Cataract,cataract,91
+C719,Unspecified extracapsular extraction of lens,Cataract,cataract,91
+C721,Forceps extraction of lens,Cataract,cataract,91
+C722,Suction extraction of lens,Cataract,cataract,91
+C723,Cryoextraction of lens,Cataract,cataract,91
+C728,Other specified intracapsular extraction of lens,Cataract,cataract,91
+C729,Unspecified intracapsular extraction of lens,Cataract,cataract,91
+C731,Membranectomy of lens,Cataract,cataract,91
+C732,Capsulotomy of anterior lens capsule,Cataract,cataract,91
+C733,Capsulotomy of posterior lens capsule,Cataract,cataract,91
+C734,Capsulotomy of lens NEC,Cataract,cataract,91
+C738,Other specified incision of capsule of lens,Cataract,cataract,91
+C739,Unspecified incision of capsule of lens,Cataract,cataract,91
+C741,Curettage of lens,Cataract,cataract,91
+C742,Discission of cataract,Cataract,cataract,91
+C743,Mechanical lensectomy,Cataract,cataract,91
+C748,Other specified other extraction of lens,Cataract,cataract,91
+C749,Unspecified other extraction of lens,Cataract,cataract,91
+C751,Insertion of prosthetic replacement for lens NEC,Cataract,cataract,91
+C752,Revision of prosthetic replacement for lens,Cataract,cataract,91
+C753,Removal of prosthetic replacement for lens,Cataract,cataract,91
+C754,Insertion of prosthetic replacement for lens using suture fixation,Cataract,cataract,91
+C758,Other specified prosthesis of lens,Cataract,cataract,91
+C759,Unspecified prosthesis of lens,Cataract,cataract,91
+C771,Capsulectomy,Cataract,cataract,91
+C772,Couching of lens,Cataract,cataract,91
+C776,Insertion of capsule tension ring,Cataract,cataract,91
+C778,Other specified other operations on lens,Cataract,cataract,91
+C779,Unspecified other operations on lens,Cataract,cataract,91
+C81,Photocoagulation of retina for detachment,Retinal detachments and breaks,retinal_detach,98
+C811,Xenon photocoagulation of retina for detachment,Retinal detachments and breaks,retinal_detach,98
+C812,Laser photocoagulation of retina for detachment,Retinal detachments and breaks,retinal_detach,98
+C818,Other specified photocoagulation of retina for detachment,Retinal detachments and breaks,retinal_detach,98
+C819,Unspecified photocoagulation of retina for detachment,Retinal detachments and breaks,retinal_detach,98
+G10,Open operations on varices of oesophagus,Portal hypertension,portal_htn,79
+G101,Disconnection of azygos vein,Portal hypertension,portal_htn,79
+G102,Transection of oesophagus using staple gun,Portal hypertension,portal_htn,79
+G103,Transection of oesophagus NEC,Portal hypertension,portal_htn,79
+G104,Local ligation of varices of oesophagus,Portal hypertension,portal_htn,79
+G105,Open injection sclerotherapy to varices of oesophagus,Portal hypertension,portal_htn,79
+G108,Other specified open operations on varices of oesophagus,Portal hypertension,portal_htn,79
+G109,Unspecified open operations on varices of oesophagus,Portal hypertension,portal_htn,79
+G174,Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope,Portal hypertension,portal_htn,79
+G23,Repair of diaphragmatic hernia,Diaphragmatic hernia,hernia_diaphragm,65
+G231,Repair of oesophageal hiatus using thoracic approach,Diaphragmatic hernia,hernia_diaphragm,65
+G232,Repair of diaphragmatic hernia using thoracic approach NEC,Diaphragmatic hernia,hernia_diaphragm,65
+G233,Repair of oesophageal hiatus using abdominal approach,Diaphragmatic hernia,hernia_diaphragm,65
+G234,Repair of diaphragmatic hernia using abdominal approach NEC,Diaphragmatic hernia,hernia_diaphragm,65
+G238,Other specified repair of diaphragmatic hernia,Diaphragmatic hernia,hernia_diaphragm,65
+G239,Unspecified repair of diaphragmatic hernia,Diaphragmatic hernia,hernia_diaphragm,65
+G24,Antireflux operations,Gastro-oesophageal reflux disease,gord,69
+G241,Antireflux fundoplication using thoracic approach,Gastro-oesophageal reflux disease,gord,69
+G242,Antireflux operation using thoracic approach NEC,Gastro-oesophageal reflux disease,gord,69
+G243,Antireflux fundoplication using abdominal approach,Gastro-oesophageal reflux disease,gord,69
+G244,Antireflux gastropexy,Gastro-oesophageal reflux disease,gord,69
+G245,Gastroplasty and antireflux procedure HFQ,Gastro-oesophageal reflux disease,gord,69
+G246,Insertion of Angelchick prosthesis,Gastro-oesophageal reflux disease,gord,69
+G248,Other specified antireflux operations,Gastro-oesophageal reflux disease,gord,69
+G249,Unspecified antireflux operations,Gastro-oesophageal reflux disease,gord,69
+G25,Revision of antireflux operations,Gastro-oesophageal reflux disease,gord,69
+G251,Revision of fundoplication of stomach,Gastro-oesophageal reflux disease,gord,69
+G252,Adjustment to Angelchick prosthesis,Gastro-oesophageal reflux disease,gord,69
+G253,Removal of Angelchick prosthesis,Gastro-oesophageal reflux disease,gord,69
+G258,Other specified revision of antireflux operations,Gastro-oesophageal reflux disease,gord,69
+G259,Unspecified revision of antireflux operations,Gastro-oesophageal reflux disease,gord,69
+G35,Operations on ulcer of stomach,Peptic ulcer disease,ulcer_peptic,77
+G351,Closure of perforated ulcer of stomach,Peritonitis,peritonitis,78
+G351,Closure of perforated ulcer of stomach,Peptic ulcer disease,ulcer_peptic,77
+G352,Closure of ulcer of stomach NEC,Peptic ulcer disease,ulcer_peptic,77
+G358,Other specified operations on ulcer of stomach,Peptic ulcer disease,ulcer_peptic,77
+G359,Unspecified operations on ulcer of stomach,Peptic ulcer disease,ulcer_peptic,77
+G362,Closure of perforation of stomach NEC,Peritonitis,peritonitis,78
+G412,Repair of perforation of pylorus,Peritonitis,peritonitis,78
+G437,Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices,Portal hypertension,portal_htn,79
+G52,Operations on ulcer of duodenum,Peptic ulcer disease,ulcer_peptic,77
+G521,Closure of perforated ulcer of duodenum,Peritonitis,peritonitis,78
+G521,Closure of perforated ulcer of duodenum,Peptic ulcer disease,ulcer_peptic,77
+G522,Suture of ulcer of duodenum NEC,Peptic ulcer disease,ulcer_peptic,77
+G523,Oversew of blood vessel of duodenal ulcer,Peptic ulcer disease,ulcer_peptic,77
+G528,Other specified operations on ulcer of duodenum,Peptic ulcer disease,ulcer_peptic,77
+G529,Unspecified operations on ulcer of duodenum,Peptic ulcer disease,ulcer_peptic,77
+G532,Closure of perforation of duodenum NEC,Peritonitis,peritonitis,78
+G633,Closure of perforation of jejunum,Peritonitis,peritonitis,78
+G784,Closure of perforation of ileum,Peritonitis,peritonitis,78
+H01,Emergency excision of appendix,Appendicitis,appendicitis,58
+H011,Emergency excision of abnormal appendix and drainage HFQ,Appendicitis,appendicitis,58
+H012,Emergency excision of abnormal appendix NEC,Appendicitis,appendicitis,58
+H018,Other specified emergency excision of appendix,Appendicitis,appendicitis,58
+H019,Unspecified emergency excision of appendix,Appendicitis,appendicitis,58
+H02,Other excision of appendix,Appendicitis,appendicitis,58
+H021,Interval appendicectomy,Appendicitis,appendicitis,58
+H022,Planned delayed appendicectomy NEC,Appendicitis,appendicitis,58
+H023,Prophylactic appendicectomy NEC,Appendicitis,appendicitis,58
+H028,Other specified other excision of appendix,Appendicitis,appendicitis,58
+H029,Unspecified other excision of appendix,Appendicitis,appendicitis,58
+H03,Other operations on appendix,Appendicitis,appendicitis,58
+H031,Drainage of abscess of appendix,Appendicitis,appendicitis,58
+H032,Drainage of appendix NEC,Appendicitis,appendicitis,58
+H121,Excision of diverticulum of colon,Diverticular disease of intestine (acute and chronic),diverticuli,66
+H172,Open reduction of volvulus of caecum,Volvulus,volvulus,81
+H173,Open reduction of volvulus of sigmoid colon,Volvulus,volvulus,81
+H174,Open reduction of volvulus of colon NEC,Volvulus,volvulus,81
+H303,Passage of flatus tube to reduce volvulus of sigmoid colon,Volvulus,volvulus,81
+H36,Other abdominal operations for prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H361,Abdominal repair of levator ani muscles,Anorectal prolapse,anorectal_prolapse,57
+H368,Other specified other abdominal operations for prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H369,Unspecified other abdominal operations for prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H42,Perineal operations for prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H421,Insertion of encircling suture around perianal sphincter,Anorectal prolapse,anorectal_prolapse,57
+H422,Perineal plication of levator ani muscles and anal sphincters,Anorectal prolapse,anorectal_prolapse,57
+H423,Insertion of supralevator sling,Anorectal prolapse,anorectal_prolapse,57
+H424,Removal of encircling suture from around perianal sphincter,Anorectal prolapse,anorectal_prolapse,57
+H425,Excision of mucosal prolapse of rectum NEC,Anorectal prolapse,anorectal_prolapse,57
+H426,Perineal repair of prolapse of rectum NEC,Anorectal prolapse,anorectal_prolapse,57
+H428,Other specified perineal operations for prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H429,Unspecified perineal operations for prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H442,Manual reduction of prolapse of rectum,Anorectal prolapse,anorectal_prolapse,57
+H551,Laying open of low anal fistula,Anorectal fistula,anorectal_fistula,56
+H552,Laying open of high anal fistula,Anorectal fistula,anorectal_fistula,56
+H553,Laying open of anal fistula NEC,Anorectal fistula,anorectal_fistula,56
+H554,Insertion of seton into high anal fistula and partial laying open of track HFQ,Anorectal fistula,anorectal_fistula,56
+H555,Fistulography of anal fistula,Anorectal fistula,anorectal_fistula,56
+H556,Probing of perineal fistula,Anorectal fistula,anorectal_fistula,56
+H557,Repair of anal fistula using plug,Anorectal fistula,anorectal_fistula,56
+H564,Excision of anal fissure,Anal fissure,anal_fissure,54
+H591,Excision of pilonidal sinus and Z plasty skin flap HFQ,Pilonidal cyst/sinus,pilonidal,234
+H592,Excision of pilonidal sinus and skin flap NEC,Pilonidal cyst/sinus,pilonidal,234
+H593,Excision of pilonidal sinus and skin graft HFQ,Pilonidal cyst/sinus,pilonidal,234
+H594,Excision of pilonidal sinus and suture HFQ,Pilonidal cyst/sinus,pilonidal,234
+H598,Other specified excision of pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H599,Unspecified excision of pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H601,Destruction of pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H602,Laying open of pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H603,Drainage of pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H604,Injection of radiocontrast substance into pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H608,Other specified other operations on pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+H609,Unspecified other operations on pilonidal sinus,Pilonidal cyst/sinus,pilonidal,234
+J203,Repair of perforation of gall bladder,Peritonitis,peritonitis,78
+L50,Other emergency bypass of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L501,Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L502,Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L503,Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L504,Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L505,Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L506,Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L508,Other specified other emergency bypass of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L509,Unspecified other emergency bypass of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L51,Other bypass of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L511,Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L512,Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L513,Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L514,Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L515,Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L516,Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L518,Other specified other bypass of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L519,Unspecified other bypass of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L52,Reconstruction of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L521,Endarterectomy of iliac artery and patch repair of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L522,Endarterectomy of iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L528,Other specified reconstruction of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L529,Unspecified reconstruction of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L53,Other open operations on iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L531,Repair of iliac artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L532,Open embolectomy of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L541,Percutaneous transluminal angioplasty of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L542,Percutaneous transluminal embolectomy of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L544,Percutaneous transluminal insertion of stent into iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L548,Other specified transluminal operations on iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L549,Unspecified transluminal operations on iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L58,Other emergency bypass of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L581,Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L582,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L583,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L584,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L585,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L586,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L587,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L588,Other specified other emergency bypass of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L589,Unspecified other emergency bypass of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L59,Other bypass of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L591,Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L592,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L593,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L594,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L595,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L596,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L597,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L598,Other specified other bypass of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L599,Unspecified other bypass of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L60,Reconstruction of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L601,Endarterectomy of femoral artery and patch repair of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L602,Endarterectomy of femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L603,Profundoplasty of femoral artery and patch repair of deep femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L604,Profundoplasty of femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L608,Other specified reconstruction of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L609,Unspecified reconstruction of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L62,Other open operations on femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L621,Repair of femoral artery NEC,Peripheral arterial disease,peripheral_arterial_disease,36
+L622,Open embolectomy of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L628,Other specified other open operations on femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L629,Unspecified other open operations on femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L631,Percutaneous transluminal angioplasty of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L632,Percutaneous transluminal embolectomy of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L633,Percutaneous transluminal embolisation of femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L635,Percutaneous transluminal insertion of stent into femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L65,Revision of reconstruction of artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L651,Revision of reconstruction involving aorta,Peripheral arterial disease,peripheral_arterial_disease,36
+L652,Revision of reconstruction involving iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L653,Revision of reconstruction involving femoral artery,Peripheral arterial disease,peripheral_arterial_disease,36
+L746,Creation of graft fistula for dialysis,Chronic kidney disease,ckd,103
+M011,Autotransplantation of kidney,Chronic kidney disease,ckd,103
+M012,Allotransplantation of kidney from live donor,Chronic kidney disease,ckd,103
+M013,Allotransplantation of kidney from cadaver NEC,Chronic kidney disease,ckd,103
+M014,Allotransplantation of kidney from cadaver heart beating,Chronic kidney disease,ckd,103
+M015,Allotransplantation of kidney from cadaver heart non-beating,Chronic kidney disease,ckd,103
+M018,Other specified transplantation of kidney,Chronic kidney disease,ckd,103
+M019,Unspecified transplantation of kidney,Chronic kidney disease,ckd,103
+M026,Excision of rejected transplanted kidney,Chronic kidney disease,ckd,103
+M027,Excision of transplanted kidney NEC,Chronic kidney disease,ckd,103
+M061,Open removal of calculus from kidney,Urolithiasis,urolithiasis,120
+M084,Exploration of transplanted kidney,Chronic kidney disease,ckd,103
+M09,Therapeutic endoscopic operations on calculus of kidney,Urolithiasis,urolithiasis,120
+M091,Endoscopic ultrasound fragmentation of calculus of kidney,Urolithiasis,urolithiasis,120
+M092,Endoscopic electrohydraulic shockwave fragmentation of calculus of kidney,Urolithiasis,urolithiasis,120
+M093,Endoscopic laser fragmentation of calculus of kidney,Urolithiasis,urolithiasis,120
+M094,Endoscopic extraction of calculus of kidney NEC,Urolithiasis,urolithiasis,120
+M098,Other specified therapeutic endoscopic operations on calculus of kidney,Urolithiasis,urolithiasis,120
+M099,Unspecified therapeutic endoscopic operations on calculus of kidney,Urolithiasis,urolithiasis,120
+M14,Extracorporeal fragmentation of calculus of kidney,Urolithiasis,urolithiasis,120
+M141,Extracorporeal shock wave lithotripsy of calculus of kidney,Urolithiasis,urolithiasis,120
+M148,Other specified extracorporeal fragmentation of calculus of kidney,Urolithiasis,urolithiasis,120
+M149,Unspecified extracorporeal fragmentation of calculus of kidney,Urolithiasis,urolithiasis,120
+M164,Percutaneous nephrolithotomy NEC,Urolithiasis,urolithiasis,120
+M172,Pre-transplantation of kidney work-up - recipient,Chronic kidney disease,ckd,103
+M174,Post-transplantation of kidney examination - recipient,Chronic kidney disease,ckd,103
+M178,Other specified interventions associated with transplantation of kidney,Chronic kidney disease,ckd,103
+M179,Unspecified interventions associated with transplantation of kidney,Chronic kidney disease,ckd,103
+M231,Open ureterolithotomy,Urolithiasis,urolithiasis,120
+M261,Nephroscopic laser fragmentation of calculus of ureter,Urolithiasis,urolithiasis,120
+M262,Nephroscopic fragmentation of calculus of ureter NEC,Urolithiasis,urolithiasis,120
+M263,Nephroscopic extraction of calculus of ureter,Urolithiasis,urolithiasis,120
+M271,Ureteroscopic laser fragmentation of calculus of ureter,Urolithiasis,urolithiasis,120
+M272,Ureteroscopic fragmentation of calculus of ureter NEC,Urolithiasis,urolithiasis,120
+M273,Ureteroscopic extraction of calculus of ureter,Urolithiasis,urolithiasis,120
+M28,Other endoscopic removal of calculus from ureter,Urolithiasis,urolithiasis,120
+M281,Endoscopic laser fragmentation of calculus of ureter NEC,Urolithiasis,urolithiasis,120
+M282,Endoscopic fragmentation of calculus of ureter NEC,Urolithiasis,urolithiasis,120
+M283,Endoscopic extraction of calculus of ureter NEC,Urolithiasis,urolithiasis,120
+M284,Endoscopic catheter drainage of calculus of ureter,Urolithiasis,urolithiasis,120
+M285,Endoscopic drainage of calculus of ureter by dilation of ureter,Urolithiasis,urolithiasis,120
+M288,Other specified other endoscopic removal of calculus from ureter,Urolithiasis,urolithiasis,120
+M289,Unspecified other endoscopic removal of calculus from ureter,Urolithiasis,urolithiasis,120
+M31,Extracorporeal fragmentation of calculus of ureter,Urolithiasis,urolithiasis,120
+M311,Extracorporeal shockwave lithotripsy of calculus of ureter,Urolithiasis,urolithiasis,120
+M318,Other specified extracorporeal fragmentation of calculus of ureter,Urolithiasis,urolithiasis,120
+M319,Unspecified extracorporeal fragmentation of calculus of ureter,Urolithiasis,urolithiasis,120
+M391,Open removal of calculus from bladder,Urolithiasis,urolithiasis,120
+M442,Endoscopic extraction of calculus of bladder NEC,Urolithiasis,urolithiasis,120
+M754,Open extraction of calculus from urethra,Urolithiasis,urolithiasis,120
+M861,Endoscopic extraction of calculus of urinary diversion,Urolithiasis,urolithiasis,120
+O171,Remanipulation of intracapsular fracture of neck of femur and fixation using nail or screw,Fracture of hip,fracture_hip,198
+T19,Simple excision of inguinal hernial sac,Abdominal Hernia,hernia_abdo,52
+T191,Bilateral herniotomy,Abdominal Hernia,hernia_abdo,52
+T192,Unilateral herniotomy,Abdominal Hernia,hernia_abdo,52
+T193,Ligation of patent processus vaginalis,Abdominal Hernia,hernia_abdo,52
+T198,Other specified simple excision of inguinal hernial sac,Abdominal Hernia,hernia_abdo,52
+T199,Unspecified simple excision of inguinal hernial sac,Abdominal Hernia,hernia_abdo,52
+T20,Primary repair of inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T201,Primary repair of inguinal hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T202,Primary repair of inguinal hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T203,Primary repair of inguinal hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T204,Primary repair of inguinal hernia and reduction of sliding hernia,Abdominal Hernia,hernia_abdo,52
+T208,Other specified primary repair of inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T209,Unspecified primary repair of inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T21,Repair of recurrent inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T211,Repair of recurrent inguinal hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T212,Repair of recurrent inguinal hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T213,Repair of recurrent inguinal hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T214,Removal of prosthetic material from previous repair of inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T218,Other specified repair of recurrent inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T219,Unspecified repair of recurrent inguinal hernia,Abdominal Hernia,hernia_abdo,52
+T22,Primary repair of femoral hernia,Abdominal Hernia,hernia_abdo,52
+T221,Primary repair of femoral hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T222,Primary repair of femoral hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T223,Primary repair of femoral hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T228,Other specified primary repair of femoral hernia,Abdominal Hernia,hernia_abdo,52
+T229,Unspecified primary repair of femoral hernia,Abdominal Hernia,hernia_abdo,52
+T23,Repair of recurrent femoral hernia,Abdominal Hernia,hernia_abdo,52
+T231,Repair of recurrent femoral hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T232,Repair of recurrent femoral hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T233,Repair of recurrent femoral hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T234,Removal of prosthetic material from previous repair of femoral hernia,Abdominal Hernia,hernia_abdo,52
+T238,Other specified repair of recurrent femoral hernia,Abdominal Hernia,hernia_abdo,52
+T239,Unspecified repair of recurrent femoral hernia,Abdominal Hernia,hernia_abdo,52
+T24,Primary repair of umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T241,Repair of umbilical hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T242,Repair of umbilical hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T243,Repair of umbilical hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T244,Removal of prosthetic material from previous repair of umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T248,Other specified primary repair of umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T249,Unspecified primary repair of umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T25,Primary repair of incisional hernia,Abdominal Hernia,hernia_abdo,52
+T251,Primary repair of incisional hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T252,Primary repair of incisional hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T253,Primary repair of incisional hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T258,Other specified primary repair of incisional hernia,Abdominal Hernia,hernia_abdo,52
+T259,Unspecified primary repair of incisional hernia,Abdominal Hernia,hernia_abdo,52
+T26,Repair of recurrent incisional hernia,Abdominal Hernia,hernia_abdo,52
+T261,Repair of recurrent incisional hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T262,Repair of recurrent incisional hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T263,Repair of recurrent incisional hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T264,Removal of prosthetic material from previous repair of incisional hernia,Abdominal Hernia,hernia_abdo,52
+T268,Other specified repair of recurrent incisional hernia,Abdominal Hernia,hernia_abdo,52
+T269,Unspecified repair of recurrent incisional hernia,Abdominal Hernia,hernia_abdo,52
+T27,Repair of other hernia of abdominal wall,Abdominal Hernia,hernia_abdo,52
+T271,Repair of ventral hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T272,Repair of ventral hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T273,Repair of ventral hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T274,Removal of prosthetic material from previous repair of ventral hernia,Abdominal Hernia,hernia_abdo,52
+T278,Other specified repair of other hernia of abdominal wall,Abdominal Hernia,hernia_abdo,52
+T279,Unspecified repair of other hernia of abdominal wall,Abdominal Hernia,hernia_abdo,52
+T521,Palmar fasciectomy,Fibromatoses,fibromatosis,197
+T522,Revision of palmar fasciectomy,Fibromatoses,fibromatosis,197
+T541,Division of palmar fascia,Fibromatoses,fibromatosis,197
+T97,Repair of recurrent umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T971,Repair of recurrent umbilical hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T972,Repair of recurrent umbilical hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T973,Repair of recurrent umbilical hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T978,Other specified repair of recurrent umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T979,Unspecified repair of recurrent umbilical hernia,Abdominal Hernia,hernia_abdo,52
+T98,Repair of recurrent other hernia of abdominal wall,Abdominal Hernia,hernia_abdo,52
+T981,Repair of recurrent ventral hernia using insert of natural material,Abdominal Hernia,hernia_abdo,52
+T982,Repair of recurrent ventral hernia using insert of prosthetic material,Abdominal Hernia,hernia_abdo,52
+T983,Repair of recurrent ventral hernia using sutures,Abdominal Hernia,hernia_abdo,52
+T988,Other specified repair of recurrent other hernia of abdominal wall,Abdominal Hernia,hernia_abdo,52
+T989,Unspecified repair of recurrent other hernia of abdominal wall,Abdominal Hernia,hernia_abdo,52
+V29,Primary excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V291,Primary laminectomy excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V292,Primary hemilaminectomy excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V293,Primary fenestration excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V294,Primary anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine,Intervertebral disc disorders,intervert_disc,202
+V295,Primary anterior excision of cervical intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V296,Primary microdiscectomy of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V298,Other specified primary excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V299,Unspecified primary excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V30,Revisional excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V301,Revisional laminectomy excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V302,Revisional hemilaminectomy excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V303,Revisional fenestration excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V304,Revisional anterior excision of cervical intervertebral disc and interbody fusion of joint of cervical spine,Intervertebral disc disorders,intervert_disc,202
+V305,Revisional anterior excision of cervical intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V306,Revisional microdiscectomy of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V308,Other specified revisional excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V309,Unspecified revisional excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V31,Primary excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V311,Primary anterolateral excision of thoracic intervertebral disc and graft HFQ,Intervertebral disc disorders,intervert_disc,202
+V312,Primary anterolateral excision of thoracic intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V313,Primary costotransversectomy of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V314,Primary percutaneous endoscopic excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V318,Other specified primary excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V319,Unspecified primary excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V32,Revisional excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V321,Revisional anterolateral excision of thoracic intervertebral disc and graft HFQ,Intervertebral disc disorders,intervert_disc,202
+V322,Revisional anterolateral excision of thoracic intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V323,Revisional costotransversectomy of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V324,Revisional percutaneous endoscopic excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V328,Other specified revisional excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V329,Unspecified revisional excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V33,Primary excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V331,Primary laminectomy excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V332,Primary fenestration excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V333,Primary anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V334,Primary anterior excision of lumbar intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V335,Primary anterior excision of lumbar intervertebral disc and posterior graft fusion of joint of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V336,Primary anterior excision of lumbar intervertebral disc and posterior instrumentation of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V337,Primary microdiscectomy of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V338,Other specified primary excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V339,Unspecified primary excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V34,Revisional excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V341,Revisional laminectomy excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V342,Revisional fenestration excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V343,Revisional anterior excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V344,Revisional anterior excision of lumbar intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V345,Revisional anterior excision of lumbar intervertebral disc and posterior graft fusion of joint of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V346,Revisional anterior excision of lumbar intervertebral disc and posterior instrumentation of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V347,Revisional microdiscectomy of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V348,Other specified revisional excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V349,Unspecified revisional excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V35,Excision of unspecified intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V351,Primary excision of intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V352,Revisional excision of intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V358,Other specified excision of unspecified intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V359,Unspecified excision of unspecified intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V36,Prosthetic replacement of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V361,Prosthetic replacement of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V362,Prosthetic replacement of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V363,Prosthetic replacement of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V368,Other specified prosthetic replacement of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V369,Unspecified prosthetic replacement of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V44,Decompression of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V441,Complex decompression of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V442,Anterior decompression of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V443,Posterior decompression of fracture of spine NEC,Collapsed vertebra,collapsed_vert,194
+V444,Vertebroplasty of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V445,Balloon kyphoplasty of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V448,Other specified decompression of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V449,Unspecified decompression of fracture of spine,Collapsed vertebra,collapsed_vert,194
+V51,Other primary excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V511,Primary direct lateral excision of lumbar intervertebral disc and interbody fusion of joint of lumbar spine,Intervertebral disc disorders,intervert_disc,202
+V518,Other specified other primary excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V519,Unspecified other primary excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V52,Other operations on intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V521,Enzyme destruction of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V522,Destruction of intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V523,Discography of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V524,Biopsy of lesion of intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V525,Aspiration of intervertebral disc NEC,Intervertebral disc disorders,intervert_disc,202
+V528,Other specified other operations on intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V529,Unspecified other operations on intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V58,Primary automated percutaneous mechanical excision of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V581,Primary automated percutaneous mechanical excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V582,Primary automated percutaneous mechanical excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V583,Primary automated percutaneous mechanical excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V588,Other specified primary automated percutaneous mechanical excision of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V589,Unspecified primary automated percutaneous mechanical excision of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V59,Revisional automated percutaneous mechanical excision of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V591,Revisional automated percutaneous mechanical excision of cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V592,Revisional automated percutaneous mechanical excision of thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V593,Revisional automated percutaneous mechanical excision of lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V598,Other specified revisional automated percutaneous mechanical excision of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V599,Unspecified revisional automated percutaneous mechanical excision of intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V60,Primary percutaneous decompression using coblation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V601,Primary percutaneous decompression using coblation to cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V602,Primary percutaneous decompression using coblation to thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V603,Primary percutaneous decompression using coblation to lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V608,Other specified primary percutaneous decompression using coblation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V609,Unspecified primary percutaneous decompression using coblation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V61,Revisional percutaneous decompression using coblation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V611,Revisional percutaneous decompression using coblation to cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V612,Revisional percutaneous decompression using coblation to thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V613,Revisional percutaneous decompression using coblation to lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V618,Other specified revisional percutaneous decompression using coblation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V619,Unspecified revisional percutaneous decompression using coblation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V62,Primary percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V621,Primary percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V622,Primary percutaneous intradiscal radiofrequency thermocoagulation to thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V623,Primary percutaneous intradiscal radiofrequency thermocoagulation to lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V628,Other specified primary percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V629,Unspecified primary percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V63,Revisional percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V631,Revisional percutaneous intradiscal radiofrequency thermocoagulation to cervical intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V632,Revisional percutaneous intradiscal radiofrequency thermocoagulation to thoracic intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V633,Revisional percutaneous intradiscal radiofrequency thermocoagulation to lumbar intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V638,Other specified revisional percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+V639,Unspecified revisional percutaneous intradiscal radiofrequency thermocoagulation to intervertebral disc,Intervertebral disc disorders,intervert_disc,202
+W191,Primary open reduction of fracture of neck of femur and open fixation using pin and plate,Fracture of hip,fracture_hip,198
+W241,Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw,Fracture of hip,fracture_hip,198
+X401,Renal dialysis,Chronic kidney disease,ckd,103
+X402,Peritoneal dialysis NEC,Chronic kidney disease,ckd,103
+X403,Haemodialysis NEC,Chronic kidney disease,ckd,103
+X405,Automated peritoneal dialysis,Chronic kidney disease,ckd,103
+X406,Continuous ambulatory peritoneal dialysis,Chronic kidney disease,ckd,103
+X411,Insertion of ambulatory peritoneal dialysis catheter,Chronic kidney disease,ckd,103
+X412,Removal of ambulatory peritoneal dialysis catheter,Chronic kidney disease,ckd,103
+X421,Insertion of temporary peritoneal dialysis catheter,Chronic kidney disease,ckd,103

@@ -1,0 +1,1764 @@
+icd10code,icd10codedescr,disease_new,disease_name_new,disease_number_new
+I71.6,"Thoracoabdominal aortic aneurysm, without mention of rupture",Abdominal aortic aneurysm,aaa,16
+I71.9,"Aortic aneurysm of unspecified site, without mention of rupture",Abdominal aortic aneurysm,aaa,16
+I71.4,"Abdominal aortic aneurysm, without mention of rupture",Abdominal aortic aneurysm,aaa,16
+L70.3,Acne tropica,Acne,acne,228
+L70.8,Other acne,Acne,acne,228
+L70.9,"Acne, unspecified",Acne,acne,228
+L70.0,Acne vulgaris,Acne,acne,228
+L70.2,Acne varioliformis,Acne,acne,228
+L70.1,Acne conglobata,Acne,acne,228
+L57.0,Actinic keratosis,Actinic keratosis,actinic_keratosis,229
+F90,Hyperkinetic disorders,Hyperkinetic disorders,adhd,186
+I48,Atrial fibrillation and flutter,Atrial fibrillation,af,17
+D70,Agranulocytosis,Agranulocytosis,agranulocytosis,137
+N17.8,Other acute renal failure,Acute Kidney Injury,aki,102
+N17.0,Acute renal failure with tubular necrosis,Acute Kidney Injury,aki,102
+N17.2,Acute renal failure with medullary necrosis,Acute Kidney Injury,aki,102
+N17.1,Acute renal failure with acute cortical necrosis,Acute Kidney Injury,aki,102
+N17.9,"Acute renal failure, unspecified",Acute Kidney Injury,aki,102
+F10.7,Mental and behavioural disorders due to use of alcohol - Residual and late-onset psychotic disorder,Alcohol Problems,alc_problems,179
+E24.4,Alcohol-induced pseudo-Cushing's syndrome,Alcohol Problems,alc_problems,179
+F10.4,Mental and behavioural disorders due to use of alcohol - Withdrawal state with delirium,Alcohol Problems,alc_problems,179
+F10.3,Mental and behavioural disorders due to use of alcohol - Withdrawal state,Alcohol Problems,alc_problems,179
+K70,Alcoholic liver disease,Alcohol Problems,alc_problems,179
+Z50.2,Alcohol rehabilitation,Alcohol Problems,alc_problems,179
+I42.6,Alcoholic cardiomyopathy,Alcohol Problems,alc_problems,179
+F10.9,Mental and behavioural disorders due to use of alcohol - Unspecified mental and behavioural disorder,Alcohol Problems,alc_problems,179
+F10.6,Mental and behavioural disorders due to use of alcohol - Amnesic syndrome,Alcohol Problems,alc_problems,179
+F10.5,Mental and behavioural disorders due to use of alcohol - Psychotic disorder,Alcohol Problems,alc_problems,179
+G72.1,Alcoholic myopathy,Alcohol Problems,alc_problems,179
+G62.1,Alcoholic polyneuropathy,Alcohol Problems,alc_problems,179
+K29.2,Alcoholic gastritis,Alcohol Problems,alc_problems,179
+Z71.4,Alcohol abuse counselling and surveillance,Alcohol Problems,alc_problems,179
+F10.8,Mental and behavioural disorders due to use of alcohol - Other mental and behavioural disorders,Alcohol Problems,alc_problems,179
+K85.2,Alcohol-induced acute pancreatitis,Alcohol Problems,alc_problems,179
+F10.1,Mental and behavioural disorders due to use of alcohol - Harmful use,Alcohol Problems,alc_problems,179
+G31.2,Degeneration of nervous system due to alcohol,Alcohol Problems,alc_problems,179
+K86.0,Alcohol-induced chronic pancreatitis,Alcohol Problems,alc_problems,179
+F10.2,Mental and behavioural disorders due to use of alcohol - Dependence syndrome,Alcohol Problems,alc_problems,179
+J30.3,Other allergic rhinitis,Allergic and chronic rhinitis,allergic_rhinitis,121
+J31.0,Chronic rhinitis,Allergic and chronic rhinitis,allergic_rhinitis,121
+J30.2,Other seasonal allergic rhinitis,Allergic and chronic rhinitis,allergic_rhinitis,121
+J30.4,"Allergic rhinitis, unspecified",Allergic and chronic rhinitis,allergic_rhinitis,121
+J30.1,Allergic rhinitis due to pollen,Allergic and chronic rhinitis,allergic_rhinitis,121
+L63,Alopecia areata,Alopecia areata,alopecia_areata,230
+K60.0,Acute anal fissure,Anal fissure,anal_fissure,54
+K60.1,Chronic anal fissure,Anal fissure,anal_fissure,54
+K60.2,"Anal fissure, unspecified",Anal fissure,anal_fissure,54
+K55.2,Angiodysplasia of colon,Angiodysplasia of colon,angiodysplasia_colon,55
+M45,Ankylosing spondylitis,Ankylosing spondylitis,ank_spond,192
+A51.1,Primary anal syphilis,Infection of anal and rectal regions,anorectal,158
+K61,Abscess of anal and rectal regions,Infection of anal and rectal regions,anorectal,158
+A60.9,"Anogenital herpesviral infection, unspecified",Infection of anal and rectal regions,anorectal,158
+A63.0,Anogenital (venereal) warts,Infection of anal and rectal regions,anorectal,158
+A60.1,Herpesviral infection of perianal skin and rectum,Infection of anal and rectal regions,anorectal,158
+A54.6,Gonococcal infection of anus and rectum,Infection of anal and rectal regions,anorectal,158
+A56.3,Chlamydial infection of anus and rectum,Infection of anal and rectal regions,anorectal,158
+K60.3,Anal fistula,Anorectal fistula,anorectal_fistula,56
+K60.5,Anorectal fistula,Anorectal fistula,anorectal_fistula,56
+K60.4,Rectal fistula,Anorectal fistula,anorectal_fistula,56
+K62.2,Anal prolapse,Anorectal prolapse,anorectal_prolapse,57
+K62.3,Rectal prolapse,Anorectal prolapse,anorectal_prolapse,57
+H22.1,Iridocyclitis in other diseases classified elsewhere,Anterior and Intermediate Uveitis,ant_uveitis,90
+H20.1,Chronic iridocyclitis,Anterior and Intermediate Uveitis,ant_uveitis,90
+H20.8,Other iridocyclitis,Anterior and Intermediate Uveitis,ant_uveitis,90
+H20.0,Acute and subacute iridocyclitis,Anterior and Intermediate Uveitis,ant_uveitis,90
+H22.0,Iridocyclitis in infectious and parasitic diseases classified elsewhere,Anterior and Intermediate Uveitis,ant_uveitis,90
+H30.2,Posterior cyclitis,Anterior and Intermediate Uveitis,ant_uveitis,90
+H20.9,"Iridocyclitis, unspecified",Anterior and Intermediate Uveitis,ant_uveitis,90
+H20.2,Lens-induced iridocyclitis,Anterior and Intermediate Uveitis,ant_uveitis,90
+F40,Phobic anxiety disorders,Anxiety disorders,anxiety,181
+F41,Other anxiety disorders,Anxiety disorders,anxiety,181
+D61,Other aplastic anaemias,Aplastic anaemias,aplastic,138
+D60,Acquired pure red cell aplasia [erythroblastopenia],Aplastic anaemias,aplastic,138
+K37,Unspecified appendicitis,Appendicitis,appendicitis,58
+K36,Other appendicitis,Appendicitis,appendicitis,58
+K35,Acute appendicitis,Appendicitis,appendicitis,58
+J61,Pneumoconiosis due to asbestos and other mineral fibres,Asbestosis,asbestosis,122
+J69.8,Pneumonitis due to other solids and liquids,Aspiration pneumonitis,aspiration_pneumo,123
+J69.0,Pneumonitis due to food and vomit,Aspiration pneumonitis,aspiration_pneumo,123
+J69.1,Pneumonitis due to oils and essences,Aspiration pneumonitis,aspiration_pneumo,123
+J45,Asthma,Asthma,asthma,124
+J46,Status asthmaticus,Asthma,asthma,124
+F84.5,Asperger's syndrome,Autism and Asperger's syndrome,autism,182
+F84.1,Atypical autism,Autism and Asperger's syndrome,autism,182
+F84.0,Childhood autism,Autism and Asperger's syndrome,autism,182
+K74.3,Primary biliary cirrhosis,Autoimmune liver disease,autoimm_liver,59
+K75.4,Autoimmune hepatitis,Autoimmune liver disease,autoimm_liver,59
+G99.1,Other disorders of autonomic nervous system in other diseases classified elsewhere,Disorders of autonomic nervous system,autonomic_neuro,216
+M89.0,Algoneurodystrophy,Disorders of autonomic nervous system,autonomic_neuro,216
+G99.0,Autonomic neuropathy in endocrine and metabolic diseases,Disorders of autonomic nervous system,autonomic_neuro,216
+G90,Disorders of autonomic nervous system,Disorders of autonomic nervous system,autonomic_neuro,216
+I44.0,"Atrioventricular block, first degree","Atrioventricular block, first degree",av_block_1,19
+I44.1,"Atrioventricular block, second degree","Atrioventricular block, second degree",av_block_2,20
+I44.2,"Atrioventricular block, complete","Atrioventricular block, complete",av_block_3,18
+D51,Vitamin B12 deficiency anaemia,Vitamin B12 deficiency anaemia,b12_def,150
+A51,Early syphilis,Bacterial Diseases (excl TB),bacterial,151
+A75,Typhus fever,Bacterial Diseases (excl TB),bacterial,151
+I98.0,Cardiovascular syphilis,Bacterial Diseases (excl TB),bacterial,151
+A25,Rat-bite fevers,Bacterial Diseases (excl TB),bacterial,151
+A41.5,Sepsis due to other Gram-negative organisms,Bacterial Diseases (excl TB),bacterial,151
+G05.0,"Encephalitis, myelitis and encephalomyelitis in bacterial diseases classified elsewhere",Bacterial Diseases (excl TB),bacterial,151
+A24,Glanders and melioidosis,Bacterial Diseases (excl TB),bacterial,151
+N41.3,Prostatocystitis,Bacterial Diseases (excl TB),bacterial,151
+P23.1,Congenital pneumonia due to Chlamydia,Bacterial Diseases (excl TB),bacterial,151
+A41.4,Sepsis due to anaerobes,Bacterial Diseases (excl TB),bacterial,151
+K61,Abscess of anal and rectal regions,Bacterial Diseases (excl TB),bacterial,151
+A31,Infection due to other mycobacteria,Bacterial Diseases (excl TB),bacterial,151
+J36,Peritonsillar abscess,Bacterial Diseases (excl TB),bacterial,151
+A38,Scarlet fever,Bacterial Diseases (excl TB),bacterial,151
+J20.2,Acute bronchitis due to streptococcus,Bacterial Diseases (excl TB),bacterial,151
+G04.2,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",Bacterial Diseases (excl TB),bacterial,151
+A20,Plague,Bacterial Diseases (excl TB),bacterial,151
+A58,Granuloma inguinale,Bacterial Diseases (excl TB),bacterial,151
+A43,Nocardiosis,Bacterial Diseases (excl TB),bacterial,151
+M03.0,Postmeningococcal arthritis,Bacterial Diseases (excl TB),bacterial,151
+M49.2,Enterobacterial spondylitis,Bacterial Diseases (excl TB),bacterial,151
+A01,Typhoid and paratyphoid fevers,Bacterial Diseases (excl TB),bacterial,151
+N39.0,"Urinary tract infection, site not specified",Bacterial Diseases (excl TB),bacterial,151
+M71.0,Abscess of bursa,Bacterial Diseases (excl TB),bacterial,151
+A66,Yaws,Bacterial Diseases (excl TB),bacterial,151
+M86,Osteomyelitis,Bacterial Diseases (excl TB),bacterial,151
+P23.5,Congenital pneumonia due to Pseudomonas,Bacterial Diseases (excl TB),bacterial,151
+N41.0,Acute prostatitis,Bacterial Diseases (excl TB),bacterial,151
+A00,Cholera,Bacterial Diseases (excl TB),bacterial,151
+L01,Impetigo,Bacterial Diseases (excl TB),bacterial,151
+A04,Other bacterial intestinal infections,Bacterial Diseases (excl TB),bacterial,151
+M49.1,Brucella spondylitis,Bacterial Diseases (excl TB),bacterial,151
+A03,Shigellosis,Bacterial Diseases (excl TB),bacterial,151
+N74.3,Female gonococcal pelvic inflammatory disease,Bacterial Diseases (excl TB),bacterial,151
+M01.3,Arthritis in other bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+A78,Q fever,Bacterial Diseases (excl TB),bacterial,151
+J16.0,Chlamydial pneumonia,Bacterial Diseases (excl TB),bacterial,151
+M00.2,Other streptococcal arthritis and polyarthritis,Bacterial Diseases (excl TB),bacterial,151
+A55,Chlamydial lymphogranuloma (venereum),Bacterial Diseases (excl TB),bacterial,151
+A27,Leptospirosis,Bacterial Diseases (excl TB),bacterial,151
+N45,Orchitis and epididymitis,Bacterial Diseases (excl TB),bacterial,151
+M73.1,Syphilitic bursitis,Bacterial Diseases (excl TB),bacterial,151
+A53,Other and unspecified syphilis,Bacterial Diseases (excl TB),bacterial,151
+N71,"Inflammatory disease of uterus, except cervix",Bacterial Diseases (excl TB),bacterial,151
+H62.0,Otitis externa in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+A67,Pinta [carate],Bacterial Diseases (excl TB),bacterial,151
+P37.2,Neonatal (disseminated) listeriosis,Bacterial Diseases (excl TB),bacterial,151
+A79,Other rickettsioses,Bacterial Diseases (excl TB),bacterial,151
+M90.2,Osteopathy in other infectious diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+L03,Cellulitis,Bacterial Diseases (excl TB),bacterial,151
+A52,Late syphilis,Bacterial Diseases (excl TB),bacterial,151
+I41.0,Myocarditis in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+N41.2,Abscess of prostate,Bacterial Diseases (excl TB),bacterial,151
+A68,Relapsing fevers,Bacterial Diseases (excl TB),bacterial,151
+A35,Other tetanus,Bacterial Diseases (excl TB),bacterial,151
+B94.0,Sequelae of trachoma,Bacterial Diseases (excl TB),bacterial,151
+J86,Pyothorax,Bacterial Diseases (excl TB),bacterial,151
+M00.8,Arthritis and polyarthritis due to other specified bacterial agents,Bacterial Diseases (excl TB),bacterial,151
+H67.0,Otitis media in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+G01,Meningitis in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+A41.3,Sepsis due to Haemophilus influenzae,Bacterial Diseases (excl TB),bacterial,151
+M65.1,Other infective (teno)synovitis,Bacterial Diseases (excl TB),bacterial,151
+B92,Sequelae of leprosy,Bacterial Diseases (excl TB),bacterial,151
+A48,"Other bacterial diseases, not elsewhere classified",Bacterial Diseases (excl TB),bacterial,151
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,Bacterial Diseases (excl TB),bacterial,151
+N74.8,Female pelvic inflammatory disorders in other diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+L00,Staphylococcal scalded skin syndrome,Bacterial Diseases (excl TB),bacterial,151
+P23.3,"Congenital pneumonia due to streptococcus, group B",Bacterial Diseases (excl TB),bacterial,151
+K67.0,Chlamydial peritonitis,Bacterial Diseases (excl TB),bacterial,151
+A02,Other salmonella infections,Bacterial Diseases (excl TB),bacterial,151
+L08.1,Erythrasma,Bacterial Diseases (excl TB),bacterial,151
+J39.0,Retropharyngeal and parapharyngeal abscess,Bacterial Diseases (excl TB),bacterial,151
+P23.6,Congenital pneumonia due to other bacterial agents,Bacterial Diseases (excl TB),bacterial,151
+A26,Erysipeloid,Bacterial Diseases (excl TB),bacterial,151
+J39.1,Other abscess of pharynx,Bacterial Diseases (excl TB),bacterial,151
+N72,Inflammatory disease of cervix uteri,Bacterial Diseases (excl TB),bacterial,151
+I05,Rheumatic mitral valve diseases,Bacterial Diseases (excl TB),bacterial,151
+I06,Rheumatic aortic valve diseases,Bacterial Diseases (excl TB),bacterial,151
+A32,Listeriosis,Bacterial Diseases (excl TB),bacterial,151
+A77,Spotted fever [tick-borne rickettsioses],Bacterial Diseases (excl TB),bacterial,151
+J02.0,Streptococcal pharyngitis,Bacterial Diseases (excl TB),bacterial,151
+N75.1,Abscess of Bartholin's gland,Bacterial Diseases (excl TB),bacterial,151
+M63.0,Myositis in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+A50,Congenital syphilis,Bacterial Diseases (excl TB),bacterial,151
+A22,Anthrax,Bacterial Diseases (excl TB),bacterial,151
+A54,Gonococcal infection,Bacterial Diseases (excl TB),bacterial,151
+A57,Chancroid,Bacterial Diseases (excl TB),bacterial,151
+L05.0,Pilonidal cyst with abscess,Bacterial Diseases (excl TB),bacterial,151
+M03.1,Postinfective arthropathy in syphilis,Bacterial Diseases (excl TB),bacterial,151
+B98.1,Vibrio vulnificus as the cause of diseases classified to other chapters,Bacterial Diseases (excl TB),bacterial,151
+L02,"Cutaneous abscess, furuncle and carbuncle",Bacterial Diseases (excl TB),bacterial,151
+J03.0,Streptococcal tonsillitis,Bacterial Diseases (excl TB),bacterial,151
+I02,Rheumatic chorea,Bacterial Diseases (excl TB),bacterial,151
+I01,Rheumatic fever with heart involvement,Bacterial Diseases (excl TB),bacterial,151
+A65,Nonvenereal syphilis,Bacterial Diseases (excl TB),bacterial,151
+A30,Leprosy [Hansen's disease],Bacterial Diseases (excl TB),bacterial,151
+I00,Rheumatic fever without mention of heart involvement,Bacterial Diseases (excl TB),bacterial,151
+A23,Brucellosis,Bacterial Diseases (excl TB),bacterial,151
+G00,"Bacterial meningitis, not elsewhere classified",Bacterial Diseases (excl TB),bacterial,151
+A39,Meningococcal infection,Bacterial Diseases (excl TB),bacterial,151
+J14,Pneumonia due to Haemophilus influenzae,Bacterial Diseases (excl TB),bacterial,151
+J13,Pneumonia due to Streptococcus pneumoniae,Bacterial Diseases (excl TB),bacterial,151
+M00.0,Staphylococcal arthritis and polyarthritis,Bacterial Diseases (excl TB),bacterial,151
+N15.1,Renal and perinephric abscess,Bacterial Diseases (excl TB),bacterial,151
+K63.0,Abscess of intestine,Bacterial Diseases (excl TB),bacterial,151
+A56,Other sexually transmitted chlamydial diseases,Bacterial Diseases (excl TB),bacterial,151
+K67.1,Gonococcal peritonitis,Bacterial Diseases (excl TB),bacterial,151
+A28,"Other zoonotic bacterial diseases, not elsewhere classified",Bacterial Diseases (excl TB),bacterial,151
+I07,Rheumatic tricuspid valve diseases,Bacterial Diseases (excl TB),bacterial,151
+P23.4,Congenital pneumonia due to Escherichia coli,Bacterial Diseases (excl TB),bacterial,151
+A70,Chlamydia psittaci infection,Bacterial Diseases (excl TB),bacterial,151
+J17.0,Pneumonia in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+J34.0,"Abscess, furuncle and carbuncle of nose",Bacterial Diseases (excl TB),bacterial,151
+A42,Actinomycosis,Bacterial Diseases (excl TB),bacterial,151
+A46,Erysipelas,Bacterial Diseases (excl TB),bacterial,151
+A41.1,Sepsis due to other specified staphylococcus,Bacterial Diseases (excl TB),bacterial,151
+M65.0,Abscess of tendon sheath,Bacterial Diseases (excl TB),bacterial,151
+J20.1,Acute bronchitis due to Haemophilus influenzae,Bacterial Diseases (excl TB),bacterial,151
+A05,"Other bacterial foodborne intoxications, not elsewhere classified",Bacterial Diseases (excl TB),bacterial,151
+N73,Other female pelvic inflammatory diseases,Bacterial Diseases (excl TB),bacterial,151
+N29.0,Late syphilis of kidney,Bacterial Diseases (excl TB),bacterial,151
+A74,Other diseases caused by chlamydiae,Bacterial Diseases (excl TB),bacterial,151
+A36,Diphtheria,Bacterial Diseases (excl TB),bacterial,151
+N13.6,Pyonephrosis,Bacterial Diseases (excl TB),bacterial,151
+A49,Bacterial infection of unspecified site,Bacterial Diseases (excl TB),bacterial,151
+M01.2,Arthritis in Lyme disease,Bacterial Diseases (excl TB),bacterial,151
+M71.1,Other infective bursitis,Bacterial Diseases (excl TB),bacterial,151
+M00.1,Pneumococcal arthritis and polyarthritis,Bacterial Diseases (excl TB),bacterial,151
+I09,Other rheumatic heart diseases,Bacterial Diseases (excl TB),bacterial,151
+P23.2,Congenital pneumonia due to staphylococcus,Bacterial Diseases (excl TB),bacterial,151
+A71,Trachoma,Bacterial Diseases (excl TB),bacterial,151
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Bacterial Diseases (excl TB),bacterial,151
+A21,Tularaemia,Bacterial Diseases (excl TB),bacterial,151
+B20.1,HIV disease resulting in other bacterial infections,Bacterial Diseases (excl TB),bacterial,151
+J15,"Bacterial pneumonia, not elsewhere classified",Bacterial Diseases (excl TB),bacterial,151
+N43.1,Infected hydrocele,Bacterial Diseases (excl TB),bacterial,151
+A44,Bartonellosis,Bacterial Diseases (excl TB),bacterial,151
+M00.9,"Pyogenic arthritis, unspecified",Bacterial Diseases (excl TB),bacterial,151
+J20.0,Acute bronchitis due to Mycoplasma pneumoniae,Bacterial Diseases (excl TB),bacterial,151
+M68.0,Synovitis and tenosynovitis in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+A41.0,Sepsis due to Staphylococcus aureus,Bacterial Diseases (excl TB),bacterial,151
+A40,Streptococcal sepsis,Bacterial Diseases (excl TB),bacterial,151
+A69,Other spirochaetal infections,Bacterial Diseases (excl TB),bacterial,151
+N70,Salpingitis and oophoritis,Bacterial Diseases (excl TB),bacterial,151
+A37,Whooping cough,Bacterial Diseases (excl TB),bacterial,151
+B98.0,Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters,Bacterial Diseases (excl TB),bacterial,151
+M90.1,Periostitis in other infectious diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+M01.0,Meningococcal arthritis,Bacterial Diseases (excl TB),bacterial,151
+N74.4,Female chlamydial pelvic inflammatory disease,Bacterial Diseases (excl TB),bacterial,151
+M72.6,Necrotizing fasciitis,Bacterial Diseases (excl TB),bacterial,151
+I32.0,Pericarditis in bacterial diseases classified elsewhere,Bacterial Diseases (excl TB),bacterial,151
+A41.2,Sepsis due to unspecified staphylococcus,Bacterial Diseases (excl TB),bacterial,151
+P36,Bacterial sepsis of newborn,Bacterial Diseases (excl TB),bacterial,151
+F31,Bipolar affective disorder,Bipolar affective disorder and mania,bad,183
+F30,Manic episode,Bipolar affective disorder and mania,bad,183
+K22.7,Barrett's oesophagus,Barrett's oesophagus,barretts,60
+G51.0,Bell's palsy,Bell's palsy,bells,214
+K62.0,Anal polyp,"Benign neoplasm of colon, rectum, anus and anal canal",benign_colon,2
+D12,"Benign neoplasm of colon, rectum, anus and anal canal","Benign neoplasm of colon, rectum, anus and anal canal",benign_colon,2
+K62.1,Rectal polyp,"Benign neoplasm of colon, rectum, anus and anal canal",benign_colon,2
+K63.5,Polyp of colon,"Benign neoplasm of colon, rectum, anus and anal canal",benign_colon,2
+N83.0,Follicular cyst of ovary,Benign neoplasm of ovary,benign_ovary,3
+D27,Benign neoplasm of ovary,Benign neoplasm of ovary,benign_ovary,3
+N83.1,Corpus luteum cyst,Benign neoplasm of ovary,benign_ovary,3
+N83.2,Other and unspecified ovarian cysts,Benign neoplasm of ovary,benign_ovary,3
+D13.2,Benign neoplasm: Duodenum,Benign neoplasm of stomach and duodenum,benign_stomach,4
+D13.1,Benign neoplasm: Stomach,Benign neoplasm of stomach and duodenum,benign_stomach,4
+D13.3,Benign neoplasm: Other and unspecified parts of small intestine,Benign neoplasm of stomach and duodenum,benign_stomach,4
+K31.7,Polyp of stomach and duodenum,Benign neoplasm of stomach and duodenum,benign_stomach,4
+N84.0,Polyp of corpus uteri,Benign neoplasm and polyp of uterus,benign_uterus,1
+D26.9,"Other benign neoplasm: Uterus, unspecified",Benign neoplasm and polyp of uterus,benign_uterus,1
+D26.7,Other benign neoplasm: Other parts of uterus,Benign neoplasm and polyp of uterus,benign_uterus,1
+D26.1,Other benign neoplasm: Corpus uteri,Benign neoplasm and polyp of uterus,benign_uterus,1
+I45.2,Bifascicular block,Bifascicular block,bifasc_block,21
+H54,Visual impairment including blindness (binocular or monocular),Visual impairment and blindness,blind,101
+M49.0,Tuberculosis of spine,Infection of bones and joints,bone,159
+M46.5,Other infective spondylopathies,Infection of bones and joints,bone,159
+M46.2,Osteomyelitis of vertebra,Infection of bones and joints,bone,159
+M90.2,Osteopathy in other infectious diseases classified elsewhere,Infection of bones and joints,bone,159
+B67.2,Echinococcus granulosus infection of bone,Infection of bones and joints,bone,159
+M86,Osteomyelitis,Infection of bones and joints,bone,159
+B45.3,Osseous cryptococcosis,Infection of bones and joints,bone,159
+M49.3,Spondylopathy in other infectious and parasitic diseases classified elsewhere,Infection of bones and joints,bone,159
+A18.0,Tuberculosis of bones and joints,Infection of bones and joints,bone,159
+B90.2,Sequelae of tuberculosis of bones and joints,Infection of bones and joints,bone,159
+M90.0,Tuberculosis of bone,Infection of bones and joints,bone,159
+A54.4,Gonococcal infection of musculoskeletal system,Infection of bones and joints,bone,159
+M90.1,Periostitis in other infectious diseases classified elsewhere,Infection of bones and joints,bone,159
+M49.2,Enterobacterial spondylitis,Infection of bones and joints,bone,159
+M00,Pyogenic arthritis,Infection of bones and joints,bone,159
+M49.1,Brucella spondylitis,Infection of bones and joints,bone,159
+M01,Direct infections of joint in infectious and parasitic diseases classified elsewhere,Infection of bones and joints,bone,159
+M46.4,"Discitis, unspecified",Infection of bones and joints,bone,159
+M46.3,Infection of intervertebral disc (pyogenic),Infection of bones and joints,bone,159
+N40,Hyperplasia of prostate,Hyperplasia of prostate,bph,112
+Q33.4,Congenital bronchiectasis,Bronchiectasis,bronchiectasis,125
+J47,Bronchiectasis,Bronchiectasis,bronchiectasis,125
+I42.9,"Cardiomyopathy, unspecified",Other Cardiomyopathy,cardiomyo_oth,34
+I42.8,Other cardiomyopathies,Other Cardiomyopathy,cardiomyo_oth,34
+I43,Cardiomyopathy in diseases classified elsewhere,Other Cardiomyopathy,cardiomyo_oth,34
+I42.5,Other restrictive cardiomyopathy,Other Cardiomyopathy,cardiomyo_oth,34
+I42.3,Endomyocardial (eosinophilic) disease,Other Cardiomyopathy,cardiomyo_oth,34
+I25.5,Ischaemic cardiomyopathy,Other Cardiomyopathy,cardiomyo_oth,34
+I42.7,Cardiomyopathy due to drugs and other external agents,Other Cardiomyopathy,cardiomyo_oth,34
+G56.0,Carpal tunnel syndrome,Carpal tunnel syndrome,carpal_tunnel,193
+H26.2,Complicated cataract,Cataract,cataract,91
+H26.9,"Cataract, unspecified",Cataract,cataract,91
+H28,Cataract and other disorders of lens in diseases classified elsewhere,Cataract,cataract,91
+H25,Senile cataract,Cataract,cataract,91
+H26.8,Other specified cataract,Cataract,cataract,91
+H26.0,"Infantile, juvenile and presenile cataract",Cataract,cataract,91
+H26.4,After-cataract,Cataract,cataract,91
+Q12.0,Congenital cataract,Cataract,cataract,91
+I25.0,"Atherosclerotic cardiovascular disease, so described",Coronary heart disease not otherwise specified,chd_nos,22
+I25.1,Atherosclerotic heart disease,Coronary heart disease not otherwise specified,chd_nos,22
+I25.6,Silent myocardial ischaemia,Coronary heart disease not otherwise specified,chd_nos,22
+I25.3,Aneurysm of heart,Coronary heart disease not otherwise specified,chd_nos,22
+I25.9,"Chronic ischaemic heart disease, unspecified",Coronary heart disease not otherwise specified,chd_nos,22
+I25.4,Coronary artery aneurysm,Coronary heart disease not otherwise specified,chd_nos,22
+I25.5,Ischaemic cardiomyopathy,Coronary heart disease not otherwise specified,chd_nos,22
+I25.8,Other forms of chronic ischaemic heart disease,Coronary heart disease not otherwise specified,chd_nos,22
+K83.0,Cholangitis,Cholangitis,cholangitis,61
+K80.3,Calculus of bile duct with cholangitis,Cholangitis,cholangitis,61
+K81,Cholecystitis,Cholecystitis,cholecystitis,62
+K80.1,Calculus of gallbladder with other cholecystitis,Cholecystitis,cholecystitis,62
+K80.0,Calculus of gallbladder with acute cholecystitis,Cholecystitis,cholecystitis,62
+K80.4,Calculus of bile duct with cholecystitis,Cholecystitis,cholecystitis,62
+K80,Cholelithiasis,Cholelithiasis,cholelithiasis,63
+N30.2,Other chronic cystitis,Non-acute cystitis,chr_cystitis,116
+N30.1,Interstitial cystitis (chronic),Non-acute cystitis,chr_cystitis,116
+B18,Chronic viral hepatitis,Chronic viral hepatitis,chr_hep,152
+G93.3,Postviral fatigue syndrome,"Postviral fatigue syndrome, neurasthenia and fibromyalgia",chronic_fatigue,226
+M79.7,Fibromyalgia,"Postviral fatigue syndrome, neurasthenia and fibromyalgia",chronic_fatigue,226
+F48.0,Neurasthenia,"Postviral fatigue syndrome, neurasthenia and fibromyalgia",chronic_fatigue,226
+K74.2,Hepatic fibrosis with hepatic sclerosis,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K70.2,Alcoholic fibrosis and sclerosis of liver,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K70.3,Alcoholic cirrhosis of liver,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K74.1,Hepatic sclerosis,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K74.6,Other and unspecified cirrhosis of liver,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K74.5,"Biliary cirrhosis, unspecified","Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K74.4,Secondary biliary cirrhosis,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K74.0,Hepatic fibrosis,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K70.1,Alcoholic hepatitis,"Liver fibrosis, sclerosis and cirrhosis",cirrhosis,74
+K90.0,Coeliac disease,Coeliac disease,coeliac,64
+M48.5,"Collapsed vertebra, not elsewhere classified",Collapsed vertebra,collapsed_vert,194
+M49.5,Collapsed vertebra in diseases classified elsewhere,Collapsed vertebra,collapsed_vert,194
+J44,Other chronic obstructive pulmonary disease,COPD,copd,126
+J41,Simple and mucopurulent chronic bronchitis,COPD,copd,126
+J43,Emphysema,COPD,copd,126
+J40,"Bronchitis, not specified as acute or chronic",COPD,copd,126
+J42,Unspecified chronic bronchitis,COPD,copd,126
+K50,Crohn's disease [regional enteritis],Inflammatory Bowel Disease,ibd,71
+I42.6,Alcoholic cardiomyopathy,Dilated cardiomyopathy,dcm,23
+I42.0,Dilated cardiomyopathy,Dilated cardiomyopathy,dcm,23
+Z46.1,Fitting and adjustment of hearing aid,Hearing loss,deaf,82
+Z97.4,Presence of external hearing-aid,Hearing loss,deaf,82
+H91,Other hearing loss,Hearing loss,deaf,82
+H90,Conductive and sensorineural hearing loss,Hearing loss,deaf,82
+Z45.3,Adjustment and management of implanted hearing device,Hearing loss,deaf,82
+F05,"Delirium, not induced by alcohol and other psychoactive substances","Delirium, not induced by alcohol and other psychoactive substances",delirium,184
+F03,Unspecified dementia,Dementia,dementia,215
+F00,Dementia in Alzheimer's disease,Dementia,dementia,215
+F05.1,Delirium superimposed on dementia,Dementia,dementia,215
+G30,Alzheimer's disease,Dementia,dementia,215
+F01,Vascular dementia,Dementia,dementia,215
+F32,Depressive episode,Depression,depression,185
+F33,Recurrent depressive disorder,Depression,depression,185
+L20,Atopic dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L23,Allergic contact dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L27,Dermatitis due to substances taken internally,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L25,Unspecified contact dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L28,Lichen simplex chronicus and prurigo,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L30.8,Other specified dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L30.0,Nummular dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L30.2,Cutaneous autosensitization,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L24,Irritant contact dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L30.1,Dyshidrosis [pompholyx],Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L26,Exfoliative dermatitis,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L30.9,"Dermatitis, unspecified",Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+L30.5,Pityriasis alba,Dermatitis (atopc/contact/other/unspecified),dermatitis,231
+H35.0,Background retinopathy and retinal vascular changes,Diabetic ophthalmic complications,diab_eye,92
+E13.3,Other specified diabetes mellitus - With ophthalmic complications,Diabetic ophthalmic complications,diab_eye,92
+E14.3,Unspecified diabetes mellitus - With ophthalmic complications,Diabetic ophthalmic complications,diab_eye,92
+E10.3,Insulin-dependent diabetes mellitus - With ophthalmic complications,Diabetic ophthalmic complications,diab_eye,92
+E12.3,Malnutrition-related diabetes mellitus - With ophthalmic complications,Diabetic ophthalmic complications,diab_eye,92
+H28.0,Diabetic cataract,Diabetic ophthalmic complications,diab_eye,92
+E11.3,Non-insulin-dependent diabetes mellitus - With ophthalmic complications,Diabetic ophthalmic complications,diab_eye,92
+H35.2,Other proliferative retinopathy,Diabetic ophthalmic complications,diab_eye,92
+H36.0,Diabetic retinopathy,Diabetic ophthalmic complications,diab_eye,92
+E10,Insulin-dependent diabetes mellitus,Diabetes,diabetes,85
+G63.2,Diabetic polyneuropathy,Diabetes,diabetes,85
+E12,Malnutrition-related diabetes mellitus,Diabetes,diabetes,85
+E13,Other specified diabetes mellitus,Diabetes,diabetes,85
+E14,Unspecified diabetes mellitus,Diabetes,diabetes,85
+M14.2,Diabetic arthropathy,Diabetes,diabetes,85
+G59.0,Diabetic mononeuropathy,Diabetes,diabetes,85
+O24.1,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent",Diabetes,diabetes,85
+H28.0,Diabetic cataract,Diabetes,diabetes,85
+O24.2,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,Diabetes,diabetes,85
+H36.0,Diabetic retinopathy,Diabetes,diabetes,85
+N08.3,Glomerular disorders in diabetes mellitus,Diabetes,diabetes,85
+O24.0,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent",Diabetes,diabetes,85
+E11,Non-insulin-dependent diabetes mellitus,Diabetes,diabetes,85
+O24.3,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",Diabetes,diabetes,85
+A08,Viral and other specified intestinal infections,Infections of the digestive system,digestive,166
+A01,Typhoid and paratyphoid fevers,Infections of the digestive system,digestive,166
+B78.0,Intestinal strongyloidiasis,Infections of the digestive system,digestive,166
+B82,Unspecified intestinal parasitism,Infections of the digestive system,digestive,166
+A22.2,Gastrointestinal anthrax,Infections of the digestive system,digestive,166
+A06.1,Chronic intestinal amoebiasis,Infections of the digestive system,digestive,166
+A00,Cholera,Infections of the digestive system,digestive,166
+B46.2,Gastrointestinal mucormycosis,Infections of the digestive system,digestive,166
+B05.4,Measles with intestinal complications,Infections of the digestive system,digestive,166
+A05,"Other bacterial foodborne intoxications, not elsewhere classified",Infections of the digestive system,digestive,166
+A02.0,Salmonella enteritis,Infections of the digestive system,digestive,166
+B81,"Other intestinal helminthiases, not elsewhere classified",Infections of the digestive system,digestive,166
+B98.0,Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters,Infections of the digestive system,digestive,166
+A06.3,Amoeboma of intestine,Infections of the digestive system,digestive,166
+A18.3,"Tuberculosis of intestines, peritoneum and mesenteric glands",Infections of the digestive system,digestive,166
+A09,Other gastroenteritis and colitis of infectious and unspecified origin,Infections of the digestive system,digestive,166
+K23.0,Tuberculous oesophagitis,Infections of the digestive system,digestive,166
+K23.1,Megaoesophagus in Chagas' disease,Infections of the digestive system,digestive,166
+A03,Shigellosis,Infections of the digestive system,digestive,166
+A21.3,Gastrointestinal tularaemia,Infections of the digestive system,digestive,166
+K93.0,"Tuberculous disorders of intestines, peritoneum and mesenteric glands",Infections of the digestive system,digestive,166
+A06.2,Amoebic nondysenteric colitis,Infections of the digestive system,digestive,166
+K63.0,Abscess of intestine,Infections of the digestive system,digestive,166
+A04,Other bacterial intestinal infections,Infections of the digestive system,digestive,166
+A07,Other protozoal intestinal diseases,Infections of the digestive system,digestive,166
+A06.0,Acute amoebic dysentery,Infections of the digestive system,digestive,166
+K57,Diverticular disease of intestine,Diverticular disease of intestine (acute and chronic),diverticuli,66
+K38.2,Diverticulum of appendix,Diverticular disease of intestine (acute and chronic),diverticuli,66
+N94.6,"Dysmenorrhoea, unspecified",Dysmenorrhoea,dysmenorrhoea,104
+N94.5,Secondary dysmenorrhoea,Dysmenorrhoea,dysmenorrhoea,104
+N94.4,Primary dysmenorrhoea,Dysmenorrhoea,dysmenorrhoea,104
+A36.2,Laryngeal diphtheria,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J00,Acute nasopharyngitis [common cold],Ear and Upper Respiratory Tract Infections,ear_urti,153
+H67,Otitis media in diseases classified elsewhere,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J36,Peritonsillar abscess,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H62.0,Otitis externa in bacterial diseases classified elsewhere,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H73.0,Acute myringitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+B87.4,Aural myiasis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H62.4,Otitis externa in other diseases classified elsewhere,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H66,Suppurative and unspecified otitis media,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H60,Otitis externa,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H62.3,Otitis externa in other infectious and parasitic diseases classified elsewhere,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H73.1,Chronic myringitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+A54.5,Gonococcal pharyngitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+B87.3,Nasopharyngeal myiasis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J06,Acute upper respiratory infections of multiple and unspecified sites,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H75.0,Mastoiditis in infectious and parasitic diseases classified elsewhere,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J01,Acute sinusitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J05,Acute obstructive laryngitis [croup] and epiglottitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H62.2,Otitis externa in mycoses,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J04,Acute laryngitis and tracheitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+A56.4,Chlamydial infection of pharynx,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J02,Acute pharyngitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+B44.2,Tonsillar aspergillosis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+B05.3,Measles complicated by otitis media,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H70,Mastoiditis and related conditions,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J39.0,Retropharyngeal and parapharyngeal abscess,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H65,Nonsuppurative otitis media,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J39.1,Other abscess of pharynx,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J03,Acute tonsillitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+H62.1,Otitis externa in viral diseases classified elsewhere,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J34.0,"Abscess, furuncle and carbuncle of nose",Ear and Upper Respiratory Tract Infections,ear_urti,153
+B27,Infectious mononucleosis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+A36.0,Pharyngeal diphtheria,Ear and Upper Respiratory Tract Infections,ear_urti,153
+A36.1,Nasopharyngeal diphtheria,Ear and Upper Respiratory Tract Infections,ear_urti,153
+J37,Chronic laryngitis and laryngotracheitis,Ear and Upper Respiratory Tract Infections,ear_urti,153
+A18.6,Tuberculosis of ear,Ear and Upper Respiratory Tract Infections,ear_urti,153
+F50.3,Atypical bulimia nervosa,Anorexia and bulimia nervosa,eating_dz,180
+F50.1,Atypical anorexia nervosa,Anorexia and bulimia nervosa,eating_dz,180
+F50.2,Bulimia nervosa,Anorexia and bulimia nervosa,eating_dz,180
+F50.0,Anorexia nervosa,Anorexia and bulimia nervosa,eating_dz,180
+N48.4,Impotence of organic origin,Erectile dysfunction,ed,107
+F52.2,Failure of genital response,Erectile dysfunction,ed,107
+A84,Tick-borne viral encephalitis,Encephalitis,enceph,154
+A85,"Other viral encephalitis, not elsewhere classified",Encephalitis,enceph,154
+B26.2,Mumps encephalitis,Encephalitis,enceph,154
+A83,Mosquito-borne viral encephalitis,Encephalitis,enceph,154
+A86,Unspecified viral encephalitis,Encephalitis,enceph,154
+B94.1,Sequelae of viral encephalitis,Encephalitis,enceph,154
+B00.4,Herpesviral encephalitis,Encephalitis,enceph,154
+B01.1,Varicella encephalitis,Encephalitis,enceph,154
+B05.0,Measles complicated by encephalitis,Encephalitis,enceph,154
+B02.0,Zoster encephalitis,Encephalitis,enceph,154
+N85.1,Endometrial adenomatous hyperplasia,Endometrial hyperplasia and hypertrophy,endometrial_hyper,105
+N85.0,Endometrial glandular hyperplasia,Endometrial hyperplasia and hypertrophy,endometrial_hyper,105
+N85.2,Hypertrophy of uterus,Endometrial hyperplasia and hypertrophy,endometrial_hyper,105
+N80,Endometriosis,Endometriosis,endometriosis,106
+M07.4,Arthropathy in Crohn's disease [regional enteritis],Enteropathic arthropathy,entero_arthro,196
+M07.6,Other enteropathic arthropathies,Enteropathic arthropathy,entero_arthro,196
+M07.5,Arthropathy in ulcerative colitis,Enteropathic arthropathy,entero_arthro,196
+M77.2,Periarthritis of wrist,Connective & soft tissue disorders,connective,195
+M71.8,Other specified bursopathies,Connective & soft tissue disorders,connective,195
+M71.4,Calcium deposit in bursa,Connective & soft tissue disorders,connective,195
+M65.4,Radial styloid tenosynovitis [de Quervain],Connective & soft tissue disorders,connective,195
+M65.3,Trigger finger,Connective & soft tissue disorders,connective,195
+M76,"Enthesopathies of lower limb, excluding foot",Connective & soft tissue disorders,connective,195
+M65.2,Calcific tendinitis,Connective & soft tissue disorders,connective,195
+M75,Shoulder lesions,Connective & soft tissue disorders,connective,195
+M77.0,Medial epicondylitis,Connective & soft tissue disorders,connective,195
+M77.3,Calcaneal spur,Connective & soft tissue disorders,connective,195
+M71.9,"Bursopathy, unspecified",Connective & soft tissue disorders,connective,195
+M65.9,"Synovitis and tenosynovitis, unspecified",Connective & soft tissue disorders,connective,195
+M77.1,Lateral epicondylitis,Connective & soft tissue disorders,connective,195
+M77.9,"Enthesopathy, unspecified",Connective & soft tissue disorders,connective,195
+M65.8,Other synovitis and tenosynovitis,Connective & soft tissue disorders,connective,195
+M77.5,Other enthesopathy of foot,Connective & soft tissue disorders,connective,195
+M46.0,Spinal enthesopathy,Connective & soft tissue disorders,connective,195
+M66,Spontaneous rupture of synovium and tendon,Connective & soft tissue disorders,connective,195
+M71.3,Other bursal cyst,Connective & soft tissue disorders,connective,195
+M71.5,"Other bursitis, not elsewhere classified",Connective & soft tissue disorders,connective,195
+M77.8,"Other enthesopathies, not elsewhere classified",Connective & soft tissue disorders,connective,195
+M71.2,Synovial cyst of popliteal space [Baker],Connective & soft tissue disorders,connective,195
+M70,"Soft tissue disorders related to use, overuse and pressure",Connective & soft tissue disorders,connective,195
+G41,Status epilepticus,Epilepsy,epilepsy,217
+G40,Epilepsy,Epilepsy,epilepsy,217
+Y61.2,During kidney dialysis or other perfusion,Chronic kidney disease,ckd,103
+N16.5,Renal tubulo-interstitial disorders in transplant rejection,Chronic kidney disease,ckd,103
+T86.1,Kidney transplant failure and rejection,Chronic kidney disease,ckd,103
+N17,Acute renal failure,Chronic kidney disease,ckd,103
+N25,Disorders resulting from impaired renal tubular function,Chronic kidney disease,ckd,103
+N05.2,Unspecified nephritic syndrome ;  Diffuse membranous glomerulonephritis,Chronic kidney disease,ckd,103
+N18.4,"Chronic kidney disease, stage 4",Chronic kidney disease,ckd,103
+Y84.1,Kidney dialysis,Chronic kidney disease,ckd,103
+N18.1,"Chronic kidney disease, stage 1",Chronic kidney disease,ckd,103
+Z94.0,Kidney transplant status,Chronic kidney disease,ckd,103
+N19,Unspecified kidney failure,Chronic kidney disease,ckd,103
+N05.4,Unspecified nephritic syndrome ;  Diffuse endocapillary proliferative glomerulonephritis,Chronic kidney disease,ckd,103
+N18.9,"Chronic kidney disease, unspecified",Chronic kidney disease,ckd,103
+N07.2,"Hereditary nephropathy, not elsewhere classified ;  Diffuse membranous glomerulonephritis",Chronic kidney disease,ckd,103
+Z49.1,Extracorporeal dialysis,Chronic kidney disease,ckd,103
+N18.5,"Chronic kidney disease, stage 5",Chronic kidney disease,ckd,103
+T86.1,Kidney transplant failure and rejection,Chronic kidney disease,ckd,103
+N07.4,"Hereditary nephropathy, not elsewhere classified ;  Diffuse endocapillary proliferative glomerulonephritis",Chronic kidney disease,ckd,103
+T82.4,Mechanical complication of vascular dialysis catheter,Chronic kidney disease,ckd,103
+Z99.2,Dependence on renal dialysis,Chronic kidney disease,ckd,103
+Y84.1,Kidney dialysis,Chronic kidney disease,ckd,103
+N05.6,Unspecified nephritic syndrome ;  Dense deposit disease,Chronic kidney disease,ckd,103
+Z49,Care involving dialysis,Chronic kidney disease,ckd,103
+N18.3,"Chronic kidney disease, stage 3",Chronic kidney disease,ckd,103
+N05.5,Unspecified nephritic syndrome ;  Diffuse mesangiocapillary glomerulonephritis,Chronic kidney disease,ckd,103
+N05.3,Unspecified nephritic syndrome ;  Diffuse mesangial proliferative glomerulonephritis,Chronic kidney disease,ckd,103
+N01,Rapidly progressive nephritic syndrome,Chronic kidney disease,ckd,103
+N07.3,"Hereditary nephropathy, not elsewhere classified ;  Diffuse mesangial proliferative glomerulonephritis",Chronic kidney disease,ckd,103
+N18.5,"Chronic kidney disease, stage 5",Chronic kidney disease,ckd,103
+N03,Chronic nephritic syndrome,Chronic kidney disease,ckd,103
+N18.2,"Chronic kidney disease, stage 2",Chronic kidney disease,ckd,103
+N10,Acute tubulo-interstitial nephritis,Chronic kidney disease,ckd,103
+N00,Acute nephritic syndrome,Chronic kidney disease,ckd,103
+Z99.2,Dependence on renal dialysis,Chronic kidney disease,ckd,103
+Z94.0,Kidney transplant status,Chronic kidney disease,ckd,103
+Z49.2,Other dialysis,Chronic kidney disease,ckd,103
+Y60.2,During kidney dialysis or other perfusion,Chronic kidney disease,ckd,103
+G25.0,Essential tremor,Essential tremor,essential_tremor,218
+A54.3,Gonococcal infection of eye,Eye infections,eye,155
+B00.5,Herpesviral ocular disease,Eye infections,eye,155
+H19.2,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,Eye infections,eye,155
+B69.1,Cysticercosis of eye,Eye infections,eye,155
+B58.0,Toxoplasma oculopathy,Eye infections,eye,155
+A18.5,Tuberculosis of eye,Eye infections,eye,155
+B02.3,Zoster ocular disease,Eye infections,eye,155
+H00.0,Hordeolum and other deep inflammation of eyelid,Eye infections,eye,155
+H10,Conjunctivitis,Eye infections,eye,155
+H19.1,Herpesviral keratitis and keratoconjunctivitis,Eye infections,eye,155
+B94.0,Sequelae of trachoma,Eye infections,eye,155
+B87.2,Ocular myiasis,Eye infections,eye,155
+A71,Trachoma,Eye infections,eye,155
+P39.1,Neonatal conjunctivitis and dacryocystitis,Eye infections,eye,155
+H13.1,Conjunctivitis in infectious and parasitic diseases classified elsewhere,Eye infections,eye,155
+A21.1,Oculoglandular tularaemia,Eye infections,eye,155
+B30,Viral conjunctivitis,Eye infections,eye,155
+A74.0,Chlamydial conjunctivitis,Eye infections,eye,155
+K70.0,Alcoholic fatty liver,Fatty Liver,fatty_liver,67
+K76.0,"Fatty (change of) liver, not elsewhere classified",Fatty Liver,fatty_liver,67
+K75.8,Other specified inflammatory liver diseases,Fatty Liver,fatty_liver,67
+N81,Female genital prolapse,Female genital prolapse,female_genital_prolapse,108
+N97,Female infertility,Female infertility,female_infertility,109
+M72.0,Palmar fascial fibromatosis [Dupuytren],Fibromatoses,fibromatosis,197
+M72.1,Knuckle pads,Fibromatoses,fibromatosis,197
+D52,Folate deficiency anaemia,Folate deficiency anaemia,folatedef,139
+S72.1,Pertrochanteric fracture,Fracture of hip,fracture_hip,198
+S72.0,Fracture of neck of femur,Fracture of hip,fracture_hip,198
+S72.2,Subtrochanteric fracture,Fracture of hip,fracture_hip,198
+S52.5,Fracture of lower end of radius,Fracture of wrist,fracture_wrist,199
+S52.6,Fracture of lower end of both ulna and radius,Fracture of wrist,fracture_wrist,199
+K29,Gastritis and duodenitis,Gastritis and duodenitis,gastritis_duodenitis,68
+M31.6,Other giant cell arteritis,Giant Cell arteritis,gca,200
+M31.5,Giant cell arteritis with polymyalgia rheumatica,Giant Cell arteritis,gca,200
+H40.1,Primary open-angle glaucoma,Glaucoma,glaucoma,93
+H40.2,Primary angle-closure glaucoma,Glaucoma,glaucoma,93
+H40.9,"Glaucoma, unspecified",Glaucoma,glaucoma,93
+N00.3,Acute nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N01.2,Rapidly progressive nephritic syndrome - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N02.9,Recurrent and persistent haematuria - Unspecified,Glomerulonephritis,gn,110
+N06.9,Isolated proteinuria with specified morphological lesion - Unspecified,Glomerulonephritis,gn,110
+N05.6,Unspecified nephritic syndrome - Dense deposit disease,Glomerulonephritis,gn,110
+N04.1,Nephrotic syndrome - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N06.5,Isolated proteinuria with specified morphological lesion - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N01.8,Rapidly progressive nephritic syndrome - Other,Glomerulonephritis,gn,110
+N05.9,Unspecified nephritic syndrome - Unspecified,Glomerulonephritis,gn,110
+N01.9,Rapidly progressive nephritic syndrome - Unspecified,Glomerulonephritis,gn,110
+N00.9,Acute nephritic syndrome - Unspecified,Glomerulonephritis,gn,110
+N01.1,Rapidly progressive nephritic syndrome - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N03.7,Chronic nephritic syndrome - Diffuse crescentic glomerulonephritis,Glomerulonephritis,gn,110
+N02.3,Recurrent and persistent haematuria - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N00.4,Acute nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N04.8,Nephrotic syndrome - Other,Glomerulonephritis,gn,110
+N06.8,Isolated proteinuria with specified morphological lesion - Other,Glomerulonephritis,gn,110
+N06.1,Isolated proteinuria with specified morphological lesion - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N05.3,Unspecified nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N04.9,Nephrotic syndrome - Unspecified,Glomerulonephritis,gn,110
+N02.7,Recurrent and persistent haematuria - Diffuse crescentic glomerulonephritis,Glomerulonephritis,gn,110
+N02.8,Recurrent and persistent haematuria - Other,Glomerulonephritis,gn,110
+N04.0,Nephrotic syndrome - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N02.2,Recurrent and persistent haematuria - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N03.1,Chronic nephritic syndrome - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N02.6,Recurrent and persistent haematuria - Dense deposit disease,Glomerulonephritis,gn,110
+N03.8,Chronic nephritic syndrome - Other,Glomerulonephritis,gn,110
+N04.2,Nephrotic syndrome - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N01.4,Rapidly progressive nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N06.6,Isolated proteinuria with specified morphological lesion - Dense deposit disease,Glomerulonephritis,gn,110
+N02.0,Recurrent and persistent haematuria - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N05.2,Unspecified nephritic syndrome - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N05.8,Unspecified nephritic syndrome - Other,Glomerulonephritis,gn,110
+N01.3,Rapidly progressive nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N00.2,Acute nephritic syndrome - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N00.6,Acute nephritic syndrome - Dense deposit disease,Glomerulonephritis,gn,110
+N05.4,Unspecified nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N04.6,Nephrotic syndrome - Dense deposit disease,Glomerulonephritis,gn,110
+N04.4,Nephrotic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N01.5,Rapidly progressive nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N03.5,Chronic nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N03.4,Chronic nephritic syndrome - Diffuse endocapillary proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N00.5,Acute nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N03.6,Chronic nephritic syndrome - Dense deposit disease,Glomerulonephritis,gn,110
+N02.1,Recurrent and persistent haematuria - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N00.0,Acute nephritic syndrome - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N01.0,Rapidly progressive nephritic syndrome - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N03.3,Chronic nephritic syndrome - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N03.2,Chronic nephritic syndrome - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N00.7,Acute nephritic syndrome - Diffuse crescentic glomerulonephritis,Glomerulonephritis,gn,110
+N03.9,Chronic nephritic syndrome - Unspecified,Glomerulonephritis,gn,110
+N05.5,Unspecified nephritic syndrome - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N03.0,Chronic nephritic syndrome - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N04.5,Nephrotic syndrome - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N02.4,Recurrent and persistent haematuria - Diffuse endocapillary proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N05.1,Unspecified nephritic syndrome - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N04.7,Nephrotic syndrome - Diffuse crescentic glomerulonephritis,Glomerulonephritis,gn,110
+N01.7,Rapidly progressive nephritic syndrome - Diffuse crescentic glomerulonephritis,Glomerulonephritis,gn,110
+N00.8,Acute nephritic syndrome - Other,Glomerulonephritis,gn,110
+N06.2,Isolated proteinuria with specified morphological lesion - Diffuse membranous glomerulonephritis,Glomerulonephritis,gn,110
+N06.3,Isolated proteinuria with specified morphological lesion - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+N02.5,Recurrent and persistent haematuria - Diffuse mesangiocapillary glomerulonephritis,Glomerulonephritis,gn,110
+N05.7,Unspecified nephritic syndrome - Diffuse crescentic glomerulonephritis,Glomerulonephritis,gn,110
+N00.1,Acute nephritic syndrome - Focal and segmental glomerular lesions,Glomerulonephritis,gn,110
+N06.0,Isolated proteinuria with specified morphological lesion - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N05.0,Unspecified nephritic syndrome - Minor glomerular abnormality,Glomerulonephritis,gn,110
+N04.3,Nephrotic syndrome - Diffuse mesangial proliferative glomerulonephritis,Glomerulonephritis,gn,110
+K21,Gastro-oesophageal reflux disease,Gastro-oesophageal reflux disease,gord,69
+M10,Gout,Gout,gout,201
+M14.0,Gouty arthropathy due to enzyme defects and other inherited disorders,Gout,gout,201
+D18.0,"Haemangioma, any site","Haemangioma, any site",haemangioma,5
+A52.0,Cardiovascular syphilis,Infections of the Heart,heart,165
+I98.0,Cardiovascular syphilis,Infections of the Heart,heart,165
+I30.1,Infective pericarditis,Infections of the Heart,heart,165
+B33.2,Viral carditis,Infections of the Heart,heart,165
+I32.0,Pericarditis in bacterial diseases classified elsewhere,Infections of the Heart,heart,165
+I43.0,Cardiomyopathy in infectious and parasitic diseases classified elsewhere,Infections of the Heart,heart,165
+I32.1,Pericarditis in other infectious and parasitic diseases classified elsewhere,Infections of the Heart,heart,165
+I40.0,Infective myocarditis,Infections of the Heart,heart,165
+B37.6,Candidal endocarditis,Infections of the Heart,heart,165
+I33.0,Acute and subacute infective endocarditis,Infections of the Heart,heart,165
+I41.1,Myocarditis in viral diseases classified elsewhere,Infections of the Heart,heart,165
+I98.1,Cardiovascular disorders in other infectious and parasitic diseases classified elsewhere,Infections of the Heart,heart,165
+A39.5,Meningococcal heart disease,Infections of the Heart,heart,165
+I41.0,Myocarditis in bacterial diseases classified elsewhere,Infections of the Heart,heart,165
+I41.2,Myocarditis in other infectious and parasitic diseases classified elsewhere,Infections of the Heart,heart,165
+K42,Umbilical hernia,Abdominal Hernia,hernia_abdo,52
+K43,Ventral hernia,Abdominal Hernia,hernia_abdo,52
+K46,Unspecified abdominal hernia,Abdominal Hernia,hernia_abdo,52
+K45,Other abdominal hernia,Abdominal Hernia,hernia_abdo,52
+K41,Femoral hernia,Abdominal Hernia,hernia_abdo,52
+K40,Inguinal hernia,Abdominal Hernia,hernia_abdo,52
+K44,Diaphragmatic hernia,Diaphragmatic hernia,hernia_diaphragm,65
+I50,Heart failure,Heart failure,hf,24
+I11.0,Hypertensive heart disease with (congestive) heart failure,Heart failure,hf,24
+I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,Heart failure,hf,24
+I13.0,Hypertensive heart and renal disease with (congestive) heart failure,Heart failure,hf,24
+L73.2,Hidradenitis suppurativa,Hidradenitis suppurativa,hidradenitis,232
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,HIV,hiv,157
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,HIV,hiv,157
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,HIV,hiv,157
+F02.4,Dementia in human immunodeficiency virus [HIV] disease,HIV,hiv,157
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,HIV,hiv,157
+B24,Unspecified human immunodeficiency virus [HIV] disease,HIV,hiv,157
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,HIV,hiv,157
+R75,Laboratory evidence of human immunodeficiency virus [HIV],HIV,hiv,157
+I42.2,Other hypertrophic cardiomyopathy,Hypertrophic Cardiomyopathy,hocm,26
+I42.1,Obstructive hypertrophic cardiomyopathy,Hypertrophic Cardiomyopathy,hocm,26
+N43.3,"Hydrocele, unspecified",Hydrocoele (incl infected),hydrocele,111
+N43.1,Infected hydrocele,Hydrocoele (incl infected),hydrocele,111
+N43.0,Encysted hydrocele,Hydrocoele (incl infected),hydrocele,111
+P83.5,Congenital hydrocele,Hydrocoele (incl infected),hydrocele,111
+N43.2,Other hydrocele,Hydrocoele (incl infected),hydrocele,111
+J34.3,Hypertrophy of nasal turbinates,Hypertrophy of nasal turbinates,hyper_nasal_turbs,128
+I15,Secondary hypertension,Hypertension,hypertension,25
+I12,Hypertensive renal disease,Hypertension,hypertension,25
+I10,Essential (primary) hypertension,Hypertension,hypertension,25
+I11,Hypertensive heart disease,Hypertension,hypertension,25
+I13,Hypertensive heart and renal disease,Hypertension,hypertension,25
+K58,Irritable bowel syndrome,Irritable bowel syndrome,ibs,73
+D50,Iron deficiency anaemia,Iron deficiency anaemia,ida,141
+D84.9,"Immunodeficiency, unspecified",Immunodeficiencies,immunodef,140
+D83,Common variable immunodeficiency,Immunodeficiencies,immunodef,140
+D84.8,Other specified immunodeficiencies,Immunodeficiencies,immunodef,140
+D84.0,Lymphocyte function antigen-1 [LFA-1] defect,Immunodeficiencies,immunodef,140
+D81,Combined immunodeficiencies,Immunodeficiencies,immunodef,140
+D82,Immunodeficiency associated with other major defects,Immunodeficiencies,immunodef,140
+D80,Immunodeficiency with predominantly antibody defects,Immunodeficiencies,immunodef,140
+M51,Other intervertebral disc disorders,Intervertebral disc disorders,intervert_disc,202
+M50,Cervical disc disorders,Intervertebral disc disorders,intervert_disc,202
+I61,Intracerebral haemorrhage,Intracerebral haemorrhage,intracereb_haem,27
+I69.1,Sequelae of intracerebral haemorrhage,Intracerebral haemorrhage,intracereb_haem,27
+G93.2,Benign intracranial hypertension,Intracranial hypertension,intracranial_htn,219
+I69.3,Sequelae of cerebral infarction,Ischaemic stroke,isch_stroke,28
+I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,Ischaemic stroke,isch_stroke,28
+I63.4,Cerebral infarction due to embolism of cerebral arteries,Ischaemic stroke,isch_stroke,28
+I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,Ischaemic stroke,isch_stroke,28
+I63.1,Cerebral infarction due to embolism of precerebral arteries,Ischaemic stroke,isch_stroke,28
+I63.9,"Cerebral infarction, unspecified",Ischaemic stroke,isch_stroke,28
+I63.3,Cerebral infarction due to thrombosis of cerebral arteries,Ischaemic stroke,isch_stroke,28
+I63.8,Other cerebral infarction,Ischaemic stroke,isch_stroke,28
+I63.0,Cerebral infarction due to thrombosis of precerebral arteries,Ischaemic stroke,isch_stroke,28
+H16,Keratitis,Keratitis,keratitis,94
+H19.1,Herpesviral keratitis and keratoconjunctivitis,Keratitis,keratitis,94
+H19.2,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,Keratitis,keratitis,94
+H19.3,Keratitis and keratoconjunctivitis in other diseases classified elsewhere,Keratitis,keratitis,94
+I44.7,"Left bundle-branch block, unspecified",Left bundle branch block,lbbb,29
+D25,Leiomyoma of uterus,Leiomyoma of uterus,leiomyoma,6
+L43,Lichen planus,Lichen planus,lichen_planus,233
+L66.1,Lichen planopilaris,Lichen planus,lichen_planus,233
+K75.0,Abscess of liver,Infection of liver,liver,160
+B67.8,"Echinococcosis, unspecified, of liver",Infection of liver,liver,160
+B67.0,Echinococcus granulosus infection of liver,Infection of liver,liver,160
+B67.5,Echinococcus multilocularis infection of liver,Infection of liver,liver,160
+B94.2,Sequelae of viral hepatitis,Infection of liver,liver,160
+B15,Acute hepatitis A,Infection of liver,liver,160
+A06.4,Amoebic liver abscess,Infection of liver,liver,160
+B58.1,Toxoplasma hepatitis,Infection of liver,liver,160
+K77.0,Liver disorders in infectious and parasitic diseases classified elsewhere,Infection of liver,liver,160
+B17,Other acute viral hepatitis,Infection of liver,liver,160
+B18,Chronic viral hepatitis,Infection of liver,liver,160
+B16,Acute hepatitis B,Infection of liver,liver,160
+B19,Unspecified viral hepatitis,Infection of liver,liver,160
+B25.1,Cytomegaloviral hepatitis,Infection of liver,liver,160
+K70,Alcoholic liver disease,Alcoholic liver disease,liver_alc,53
+B15.0,Hepatitis A with hepatic coma,Hepatic failure,liver_fail,70
+B19.0,Unspecified viral hepatitis with hepatic coma,Hepatic failure,liver_fail,70
+K76.3,Infarction of liver,Hepatic failure,liver_fail,70
+K71.1,Toxic liver disease with hepatic necrosis,Hepatic failure,liver_fail,70
+K70.4,Alcoholic hepatic failure,Hepatic failure,liver_fail,70
+K76.2,Central haemorrhagic necrosis of liver,Hepatic failure,liver_fail,70
+K72,"Hepatic failure, not elsewhere classified",Hepatic failure,liver_fail,70
+B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma,Hepatic failure,liver_fail,70
+B42.0,Pulmonary sporotrichosis,Lower Respiratory Tract Infections,lrti,167
+B37.1,Pulmonary candidiasis,Lower Respiratory Tract Infections,lrti,167
+J85.1,Abscess of lung with pneumonia,Lower Respiratory Tract Infections,lrti,167
+B46.0,Pulmonary mucormycosis,Lower Respiratory Tract Infections,lrti,167
+B38.2,"Pulmonary coccidioidomycosis, unspecified",Lower Respiratory Tract Infections,lrti,167
+A22.1,Pulmonary Anthrax,Lower Respiratory Tract Infections,lrti,167
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Lower Respiratory Tract Infections,lrti,167
+J12,"Viral pneumonia, not elsewhere classified",Lower Respiratory Tract Infections,lrti,167
+J18,"Pneumonia, organism unspecified",Lower Respiratory Tract Infections,lrti,167
+J65,Pneumoconiosis associated with tuberculosis,Lower Respiratory Tract Infections,lrti,167
+A21.2,Pulmonary tularaemia,Lower Respiratory Tract Infections,lrti,167
+B41.0,Pulmonary paracoccidioidomycosis,Lower Respiratory Tract Infections,lrti,167
+A42.0,Pulmonary actinomycosis,Lower Respiratory Tract Infections,lrti,167
+B44.0,Invasive pulmonary aspergillosis,Lower Respiratory Tract Infections,lrti,167
+J10.0,"Influenza with pneumonia, other influenza virus identified",Lower Respiratory Tract Infections,lrti,167
+B01.2,Varicella pneumonia,Lower Respiratory Tract Infections,lrti,167
+A43.0,Pulmonary nocardiosis,Lower Respiratory Tract Infections,lrti,167
+B40.1,Chronic pulmonary blastomycosis,Lower Respiratory Tract Infections,lrti,167
+B39.1,Chronic pulmonary histoplasmosis capsulati,Lower Respiratory Tract Infections,lrti,167
+B45.0,Pulmonary cryptococcosis,Lower Respiratory Tract Infections,lrti,167
+B40.0,Acute pulmonary blastomycosis,Lower Respiratory Tract Infections,lrti,167
+A20.2,Pneumonic plague,Lower Respiratory Tract Infections,lrti,167
+J13,Pneumonia due to Streptococcus pneumoniae,Lower Respiratory Tract Infections,lrti,167
+A31.0,Pulmonary mycobacterial infection,Lower Respiratory Tract Infections,lrti,167
+J11.0,"Influenza with pneumonia, virus not identified",Lower Respiratory Tract Infections,lrti,167
+B59,Pneumocystosis,Lower Respiratory Tract Infections,lrti,167
+B40.2,"Pulmonary blastomycosis, unspecified",Lower Respiratory Tract Infections,lrti,167
+P23,Congenital pneumonia,Lower Respiratory Tract Infections,lrti,167
+J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,Lower Respiratory Tract Infections,lrti,167
+J22,Unspecified acute lower respiratory infection,Lower Respiratory Tract Infections,lrti,167
+J16,"Pneumonia due to other infectious organisms, not elsewhere classified",Lower Respiratory Tract Infections,lrti,167
+B38.0,Acute pulmonary coccidioidomycosis,Lower Respiratory Tract Infections,lrti,167
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",Lower Respiratory Tract Infections,lrti,167
+J21,Acute bronchiolitis,Lower Respiratory Tract Infections,lrti,167
+J14,Pneumonia due to Haemophilus influenzae,Lower Respiratory Tract Infections,lrti,167
+B25.0,Cytomegaloviral pneumonitis,Lower Respiratory Tract Infections,lrti,167
+J20,Acute bronchitis,Lower Respiratory Tract Infections,lrti,167
+B39.2,"Pulmonary histoplasmosis capsulati, unspecified",Lower Respiratory Tract Infections,lrti,167
+J17,Pneumonia in diseases classified elsewhere,Lower Respiratory Tract Infections,lrti,167
+J15,"Bacterial pneumonia, not elsewhere classified",Lower Respiratory Tract Infections,lrti,167
+B67.1,Echinococcus granulosus infection of lung,Lower Respiratory Tract Infections,lrti,167
+B39.0,Acute pulmonary histoplasmosis capsulati,Lower Respiratory Tract Infections,lrti,167
+B38.1,Chronic pulmonary coccidioidomycosis,Lower Respiratory Tract Infections,lrti,167
+B05.2,Measles complicated by pneumonia,Lower Respiratory Tract Infections,lrti,167
+B58.3,Pulmonary toxoplasmosis,Lower Respiratory Tract Infections,lrti,167
+J86,Pyothorax,Lower Respiratory Tract Infections,lrti,167
+A06.5,Amoebic lung abscess,Lower Respiratory Tract Infections,lrti,167
+A37,Whooping cough,Lower Respiratory Tract Infections,lrti,167
+B44.1,Other pulmonary aspergillosis,Lower Respiratory Tract Infections,lrti,167
+J85.0,Gangrene and necrosis of lung,Lower Respiratory Tract Infections,lrti,167
+J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",Lower Respiratory Tract Infections,lrti,167
+J85.2,Abscess of lung without pneumonia,Lower Respiratory Tract Infections,lrti,167
+A69.2,Lyme disease,Lyme disease,lyme,168
+M01.2,Arthritis in Lyme disease,Lyme disease,lyme,168
+H35.3,Degeneration of macula and posterior pole,Macular degeneration,macula_degen,95
+N41.3,Prostatocystitis,Infection of male genital system,male_gu,161
+N48.1,Balanoposthitis,Infection of male genital system,male_gu,161
+N41.2,Abscess of prostate,Infection of male genital system,male_gu,161
+N43.1,Infected hydrocele,Infection of male genital system,male_gu,161
+B26.0,Mumps orchitis,Infection of male genital system,male_gu,161
+N45,Orchitis and epididymitis,Infection of male genital system,male_gu,161
+N41.0,Acute prostatitis,Infection of male genital system,male_gu,161
+N46,Male infertility,Male infertility,male_infertility,113
+H81.0,Meniere's disease,Meniere disease,meniere,83
+A20.3,Plague meningitis,Meningitis,meningitis,169
+A17.0,Tuberculous meningitis,Meningitis,meningitis,169
+B05.1,Measles complicated by meningitis,Meningitis,meningitis,169
+A32.1,Listerial meningitis and meningoencephalitis,Meningitis,meningitis,169
+G01,Meningitis in bacterial diseases classified elsewhere,Meningitis,meningitis,169
+B01.0,Varicella meningitis,Meningitis,meningitis,169
+B02.1,Zoster meningitis,Meningitis,meningitis,169
+G00,"Bacterial meningitis, not elsewhere classified",Meningitis,meningitis,169
+B38.4,Coccidioidomycosis meningitis,Meningitis,meningitis,169
+B26.1,Mumps meningitis,Meningitis,meningitis,169
+A39.0,Meningococcal meningitis,Meningitis,meningitis,169
+B00.3,Herpesviral meningitis,Meningitis,meningitis,169
+B37.5,Candidal meningitis,Meningitis,meningitis,169
+G02.0,Meningitis in viral diseases classified elsewhere,Meningitis,meningitis,169
+G02.8,Meningitis in other specified infectious and parasitic diseases classified elsewhere,Meningitis,meningitis,169
+A87,Viral meningitis,Meningitis,meningitis,169
+A17.1,Meningeal tuberculoma,Meningitis,meningitis,169
+G02.1,Meningitis in mycoses,Meningitis,meningitis,169
+N92.4,Excessive bleeding in the premenopausal period,Menorrhagia and polymenorrhoea,menorrhagia,114
+N92.1,Excessive and frequent menstruation with irregular cycle,Menorrhagia and polymenorrhoea,menorrhagia,114
+N92.0,Excessive and frequent menstruation with regular cycle,Menorrhagia and polymenorrhoea,menorrhagia,114
+N92.2,Excessive menstruation at puberty,Menorrhagia and polymenorrhoea,menorrhagia,114
+G43,Migraine,Migraine,migraine,220
+G12.2,Motor neuron disease,Motor neuron disease,mnd,221
+G35,Multiple sclerosis,Multiple sclerosis,ms,222
+I08,Multiple valve diseases,Multiple valve dz,mult_valve,30
+G70.0,Myasthenia gravis,Myasthenia gravis,myasthenia,223
+H62.2,Otitis externa in mycoses,Mycoses,mycoses,170
+M01.6,Arthritis in mycoses,Mycoses,mycoses,170
+B59,Pneumocystosis,Mycoses,mycoses,170
+B35,Dermatophytosis,Mycoses,mycoses,170
+B38,Coccidioidomycosis,Mycoses,mycoses,170
+B47,Mycetoma,Mycoses,mycoses,170
+B40,Blastomycosis,Mycoses,mycoses,170
+B43,Chromomycosis and phaeomycotic abscess,Mycoses,mycoses,170
+B37,Candidiasis,Mycoses,mycoses,170
+B49,Unspecified mycosis,Mycoses,mycoses,170
+B20.5,HIV disease resulting in other mycoses,Mycoses,mycoses,170
+B20.6,HIV disease resulting in Pneumocystis jirovecii pneumonia,Mycoses,mycoses,170
+B48,"Other mycoses, not elsewhere classified",Mycoses,mycoses,170
+J17.2,Pneumonia in mycoses,Mycoses,mycoses,170
+B46,Zygomycosis,Mycoses,mycoses,170
+B41,Paracoccidioidomycosis,Mycoses,mycoses,170
+B39,Histoplasmosis,Mycoses,mycoses,170
+B36,Other superficial mycoses,Mycoses,mycoses,170
+B44,Aspergillosis,Mycoses,mycoses,170
+B45,Cryptococcosis,Mycoses,mycoses,170
+B20.4,HIV disease resulting in candidiasis,Mycoses,mycoses,170
+G02.1,Meningitis in mycoses,Mycoses,mycoses,170
+B42,Sporotrichosis,Mycoses,mycoses,170
+I24.1,Dressler's syndrome,Myocardial infarction,myocardial_infarction,31
+I23,Certain current complications following acute myocardial infarction,Myocardial infarction,myocardial_infarction,31
+I25.2,Old myocardial infarction,Myocardial infarction,myocardial_infarction,31
+I21,Acute myocardial infarction,Myocardial infarction,myocardial_infarction,31
+I22,Subsequent myocardial infarction,Myocardial infarction,myocardial_infarction,31
+J33,Nasal polyp,Nasal polyp,nasal_polyp,129
+N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",Neuromuscular dysfunction of bladder,neuro_bladder,115
+I35,Nonrheumatic aortic valve disorders,Nonrheumatic aortic valve disorders,nonrh_aortic,32
+I34,Nonrheumatic mitral valve disorders,Nonrheumatic mitral valve disorders,nonrh_mitral,33
+M16,Coxarthrosis [arthrosis of hip],Osteoarthritis (excl spine),oa,204
+M15,Polyarthrosis,Osteoarthritis (excl spine),oa,204
+M18,Arthrosis of first carpometacarpal joint,Osteoarthritis (excl spine),oa,204
+M17,Gonarthrosis [arthrosis of knee],Osteoarthritis (excl spine),oa,204
+M19,Other arthrosis,Osteoarthritis (excl spine),oa,204
+N13.8,Other obstructive and reflux uropathy,Obstructive and reflux uropathy,obstr_reflux,117
+N13.9,"Obstructive and reflux uropathy, unspecified",Obstructive and reflux uropathy,obstr_reflux,117
+N13.5,Kinking and stricture of ureter without hydronephrosis,Obstructive and reflux uropathy,obstr_reflux,117
+N13.7,Vesicoureteral-reflux-associated uropathy,Obstructive and reflux uropathy,obstr_reflux,117
+N13.3,Other and unspecified hydronephrosis,Obstructive and reflux uropathy,obstr_reflux,117
+N13.1,"Hydronephrosis with ureteral stricture, not elsewhere classified",Obstructive and reflux uropathy,obstr_reflux,117
+N13.6,Pyonephrosis,Obstructive and reflux uropathy,obstr_reflux,117
+N13.0,Hydronephrosis with ureteropelvic junction obstruction,Obstructive and reflux uropathy,obstr_reflux,117
+N13.4,Hydroureter,Obstructive and reflux uropathy,obstr_reflux,117
+N13.2,Hydronephrosis with renal and ureteral calculous obstruction,Obstructive and reflux uropathy,obstr_reflux,117
+F42,Obsessive-compulsive disorder,Obsessive-compulsive disorder,ocd,188
+K22.1,Ulcer of oesophagus,Oesophagitis and oesophageal ulcer,oesoph_ulc,75
+K20,Oesophagitis,Oesophagitis and oesophageal ulcer,oesoph_ulc,75
+K21.0,Gastro-oesophageal reflux disease with oesophagitis,Oesophagitis and oesophageal ulcer,oesoph_ulc,75
+M82,Osteoporosis in diseases classified elsewhere,Osteoporosis,osteoporosis,205
+M80,Osteoporosis with pathological fracture,Osteoporosis,osteoporosis,205
+M81,Osteoporosis without pathological fracture,Osteoporosis,osteoporosis,205
+D63,Anaemia in chronic diseases classified elsewhere,Other anaemias,oth_anaemia,142
+D62,Acute posthaemorrhagic anaemia,Other anaemias,oth_anaemia,142
+D64,Other anaemias,Other anaemias,oth_anaemia,142
+D53,Other nutritional anaemias,Other anaemias,oth_anaemia,142
+N75.1,Abscess of Bartholin's gland,Infection of other or unspecified genitourinary system,oth_gu,162
+N77.1,"Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere",Infection of other or unspecified genitourinary system,oth_gu,162
+A56.0,Chlamydial infection of lower genitourinary tract,Infection of other or unspecified genitourinary system,oth_gu,162
+A18.1,Tuberculosis of genitourinary system,Infection of other or unspecified genitourinary system,oth_gu,162
+A51.0,Primary genital syphilis,Infection of other or unspecified genitourinary system,oth_gu,162
+A59.0,Urogenital trichomoniasis,Infection of other or unspecified genitourinary system,oth_gu,162
+B37.3,Candidiasis of vulva and vagina,Infection of other or unspecified genitourinary system,oth_gu,162
+A58,Granuloma inguinale,Infection of other or unspecified genitourinary system,oth_gu,162
+A54.2,Gonococcal pelviperitonitis and other gonococcal genitourinary infections,Infection of other or unspecified genitourinary system,oth_gu,162
+A56.2,"Chlamydial infection of genitourinary tract, unspecified",Infection of other or unspecified genitourinary system,oth_gu,162
+B37.4,Candidiasis of other urogenital sites,Infection of other or unspecified genitourinary system,oth_gu,162
+N77.0,Ulceration of vulva in infectious and parasitic diseases classified elsewhere,Infection of other or unspecified genitourinary system,oth_gu,162
+A54.1,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,Infection of other or unspecified genitourinary system,oth_gu,162
+A57,Chancroid,Infection of other or unspecified genitourinary system,oth_gu,162
+B90.1,Sequelae of genitourinary tuberculosis,Infection of other or unspecified genitourinary system,oth_gu,162
+A54.0,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,Infection of other or unspecified genitourinary system,oth_gu,162
+A60.0,Herpesviral infection of genitalia and urogenital tract,Infection of other or unspecified genitourinary system,oth_gu,162
+A56.1,Chlamydial infection of pelviperitoneum and other genitourinary organs,Infection of other or unspecified genitourinary system,oth_gu,162
+D58,Other hereditary haemolytic anaemias,Other haemolytic anaemias,oth_haem_anaemia,143
+D55,Anaemia due to enzyme disorders,Other haemolytic anaemias,oth_haem_anaemia,143
+D59,Acquired haemolytic anaemia,Other haemolytic anaemias,oth_haem_anaemia,143
+A17.9,"Tuberculosis of nervous system, unspecified",Other nervous system infections,oth_nerv_sys,171
+A06.6,Amoebic brain abscess,Other nervous system infections,oth_nerv_sys,171
+G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,Other nervous system infections,oth_nerv_sys,171
+A81,Atypical virus infections of central nervous system,Other nervous system infections,oth_nerv_sys,171
+G08,Intracranial and intraspinal phlebitis and thrombophlebitis,Other nervous system infections,oth_nerv_sys,171
+A52.2,Asymptomatic neurosyphilis,Other nervous system infections,oth_nerv_sys,171
+A52.1,Symptomatic neurosyphilis,Other nervous system infections,oth_nerv_sys,171
+G06,Intracranial and intraspinal abscess and granuloma,Other nervous system infections,oth_nerv_sys,171
+B50.0,Plasmodium falciparum malaria with cerebral complications,Other nervous system infections,oth_nerv_sys,171
+A82,Rabies,Other nervous system infections,oth_nerv_sys,171
+G05.2,"Encephalitis, myelitis and encephalomyelitis in other infectious and parasitic diseases classified elsewhere",Other nervous system infections,oth_nerv_sys,171
+B58.2,Toxoplasma meningoencephalitis,Other nervous system infections,oth_nerv_sys,171
+B91,Sequelae of poliomyelitis,Other nervous system infections,oth_nerv_sys,171
+G05.1,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",Other nervous system infections,oth_nerv_sys,171
+M89.6,Osteopathy after poliomyelitis,Other nervous system infections,oth_nerv_sys,171
+A17.8,Other tuberculosis of nervous system,Other nervous system infections,oth_nerv_sys,171
+G04.2,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",Other nervous system infections,oth_nerv_sys,171
+G04.9,"Encephalitis, myelitis and encephalomyelitis, unspecified",Other nervous system infections,oth_nerv_sys,171
+B43.1,Phaeomycotic brain abscess,Other nervous system infections,oth_nerv_sys,171
+B90.0,Sequelae of central nervous system tuberculosis,Other nervous system infections,oth_nerv_sys,171
+B45.1,Cerebral cryptococcosis,Other nervous system infections,oth_nerv_sys,171
+G04.8,"Other encephalitis, myelitis and encephalomyelitis",Other nervous system infections,oth_nerv_sys,171
+A89,Unspecified viral infection of central nervous system,Other nervous system infections,oth_nerv_sys,171
+A80,Acute poliomyelitis,Other nervous system infections,oth_nerv_sys,171
+A88,"Other viral infections of central nervous system, not elsewhere classified",Other nervous system infections,oth_nerv_sys,171
+G05.0,"Encephalitis, myelitis and encephalomyelitis in bacterial diseases classified elsewhere",Other nervous system infections,oth_nerv_sys,171
+B06.0,Rubella with neurological complications,Other nervous system infections,oth_nerv_sys,171
+B02.2,Zoster with other nervous system involvement,Other nervous system infections,oth_nerv_sys,171
+A52.3,"Neurosyphilis, unspecified",Other nervous system infections,oth_nerv_sys,171
+B69.0,Cysticercosis of central nervous system,Other nervous system infections,oth_nerv_sys,171
+I98.1,Cardiovascular disorders in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+K77.0,Liver disorders in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+A63.8,Other specified predominantly sexually transmitted diseases,Other or unspecified infectious organisms,oth_organisms,172
+N30.9,"Cystitis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+G04.8,"Other encephalitis, myelitis and encephalomyelitis",Other or unspecified infectious organisms,oth_organisms,172
+P23.9,"Congenital pneumonia, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+M46.4,"Discitis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+H66,Suppurative and unspecified otitis media,Other or unspecified infectious organisms,oth_organisms,172
+A81.0,Creutzfeldt-Jakob disease,Other or unspecified infectious organisms,oth_organisms,172
+B99,Other and unspecified infectious diseases,Other or unspecified infectious organisms,oth_organisms,172
+A81.8,Other atypical virus infections of central nervous system,Other or unspecified infectious organisms,oth_organisms,172
+A64,Unspecified sexually transmitted disease,Other or unspecified infectious organisms,oth_organisms,172
+G05.2,"Encephalitis, myelitis and encephalomyelitis in other infectious and parasitic diseases classified elsewhere",Other or unspecified infectious organisms,oth_organisms,172
+J17.8,Pneumonia in other diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+H62.3,Otitis externa in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+M01.8,Arthritis in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+J20.8,Acute bronchitis due to other specified organisms,Other or unspecified infectious organisms,oth_organisms,172
+J04,Acute laryngitis and tracheitis,Other or unspecified infectious organisms,oth_organisms,172
+H67.8,Otitis media in other diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+A41.9,"Sepsis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,Other or unspecified infectious organisms,oth_organisms,172
+G04.9,"Encephalitis, myelitis and encephalomyelitis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+G53.1,Multiple cranial nerve palsies in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+J03.8,Acute tonsillitis due to other specified organisms,Other or unspecified infectious organisms,oth_organisms,172
+H73.1,Chronic myringitis,Other or unspecified infectious organisms,oth_organisms,172
+L30.3,Infective dermatitis,Other or unspecified infectious organisms,oth_organisms,172
+J20.9,"Acute bronchitis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+J22,Unspecified acute lower respiratory infection,Other or unspecified infectious organisms,oth_organisms,172
+J02.9,"Acute pharyngitis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+H65,Nonsuppurative otitis media,Other or unspecified infectious organisms,oth_organisms,172
+J06,Acute upper respiratory infections of multiple and unspecified sites,Other or unspecified infectious organisms,oth_organisms,172
+N77.1,"Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere",Other or unspecified infectious organisms,oth_organisms,172
+A41.8,Other specified sepsis,Other or unspecified infectious organisms,oth_organisms,172
+H10,Conjunctivitis,Other or unspecified infectious organisms,oth_organisms,172
+I40.0,Infective myocarditis,Other or unspecified infectious organisms,oth_organisms,172
+G06,Intracranial and intraspinal abscess and granuloma,Other or unspecified infectious organisms,oth_organisms,172
+G08,Intracranial and intraspinal phlebitis and thrombophlebitis,Other or unspecified infectious organisms,oth_organisms,172
+J16.8,Pneumonia due to other specified infectious organisms,Other or unspecified infectious organisms,oth_organisms,172
+J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+N16.0,Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+N30.0,Acute cystitis,Other or unspecified infectious organisms,oth_organisms,172
+N10,Acute tubulo-interstitial nephritis,Other or unspecified infectious organisms,oth_organisms,172
+K75.0,Abscess of liver,Other or unspecified infectious organisms,oth_organisms,172
+A81.9,"Atypical virus infection of central nervous system, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+P37.8,Other specified congenital infectious and parasitic diseases,Other or unspecified infectious organisms,oth_organisms,172
+I33.0,Acute and subacute infective endocarditis,Other or unspecified infectious organisms,oth_organisms,172
+N34,Urethritis and urethral syndrome,Other or unspecified infectious organisms,oth_organisms,172
+H70,Mastoiditis and related conditions,Other or unspecified infectious organisms,oth_organisms,172
+L08.8,Other specified local infections of skin and subcutaneous tissue,Other or unspecified infectious organisms,oth_organisms,172
+M46.5,Other infective spondylopathies,Other or unspecified infectious organisms,oth_organisms,172
+J03.9,"Acute tonsillitis, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+J00,Acute nasopharyngitis [common cold],Other or unspecified infectious organisms,oth_organisms,172
+J02.8,Acute pharyngitis due to other specified organisms,Other or unspecified infectious organisms,oth_organisms,172
+J05,Acute obstructive laryngitis [croup] and epiglottitis,Other or unspecified infectious organisms,oth_organisms,172
+M03,Postinfective and reactive arthropathies in diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+G94.0,Hydrocephalus in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+H19.2,Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+H62.4,Otitis externa in other diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+L08.9,"Local infection of skin and subcutaneous tissue, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+J18,"Pneumonia, organism unspecified",Other or unspecified infectious organisms,oth_organisms,172
+B94.8,Sequelae of other specified infectious and parasitic diseases,Other or unspecified infectious organisms,oth_organisms,172
+M02,Reactive arthropathies,Other or unspecified infectious organisms,oth_organisms,172
+P39,Other infections specific to the perinatal period,Other or unspecified infectious organisms,oth_organisms,172
+J01,Acute sinusitis,Other or unspecified infectious organisms,oth_organisms,172
+H73.0,Acute myringitis,Other or unspecified infectious organisms,oth_organisms,172
+I32.1,Pericarditis in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+M49.3,Spondylopathy in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+H75.0,Mastoiditis in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+I41.2,Myocarditis in other infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+N48.1,Balanoposthitis,Other or unspecified infectious organisms,oth_organisms,172
+M46.3,Infection of intervertebral disc (pyogenic),Other or unspecified infectious organisms,oth_organisms,172
+L08.0,Pyoderma,Other or unspecified infectious organisms,oth_organisms,172
+A09,Other gastroenteritis and colitis of infectious and unspecified origin,Other or unspecified infectious organisms,oth_organisms,172
+A08.5,Other specified intestinal infections,Other or unspecified infectious organisms,oth_organisms,172
+H60,Otitis externa,Other or unspecified infectious organisms,oth_organisms,172
+G63.0,Polyneuropathy in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+N08.0,Glomerular disorders in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+P37.9,"Congenital infectious and parasitic disease, unspecified",Other or unspecified infectious organisms,oth_organisms,172
+P23.8,Congenital pneumonia due to other organisms,Other or unspecified infectious organisms,oth_organisms,172
+B94.9,Sequelae of unspecified infectious or parasitic disease,Other or unspecified infectious organisms,oth_organisms,172
+M60.0,Infective myositis,Other or unspecified infectious organisms,oth_organisms,172
+N77.0,Ulceration of vulva in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+I43.0,Cardiomyopathy in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+H13.1,Conjunctivitis in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+N29.1,Other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+G02.8,Meningitis in other specified infectious and parasitic diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+I30.1,Infective pericarditis,Other or unspecified infectious organisms,oth_organisms,172
+J85,Abscess of lung and mediastinum,Other or unspecified infectious organisms,oth_organisms,172
+N30.8,Other cystitis,Other or unspecified infectious organisms,oth_organisms,172
+M63.2,Myositis in other infectious diseases classified elsewhere,Other or unspecified infectious organisms,oth_organisms,172
+A96,Arenaviral haemorrhagic fever,Infections of Other or unspecified organs,oth_organs,164
+A06.9,"Amoebiasis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A48,"Other bacterial diseases, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+B02.7,Disseminated zoster,Infections of Other or unspecified organs,oth_organs,164
+B76,Hookworm diseases,Infections of Other or unspecified organs,oth_organs,164
+B00.7,Disseminated herpesviral disease,Infections of Other or unspecified organs,oth_organs,164
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Infections of Other or unspecified organs,oth_organs,164
+B74,Filariasis,Infections of Other or unspecified organs,oth_organs,164
+A56.8,Sexually transmitted chlamydial infection of other sites,Infections of Other or unspecified organs,oth_organs,164
+A18.8,Tuberculosis of other specified organs,Infections of Other or unspecified organs,oth_organs,164
+B37.0,Candidal stomatitis,Infections of Other or unspecified organs,oth_organs,164
+B78.7,Disseminated strongyloidiasis,Infections of Other or unspecified organs,oth_organs,164
+J09,Influenza due to identified avian influenza virus,Infections of Other or unspecified organs,oth_organs,164
+A28,"Other zoonotic bacterial diseases, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+A21.9,"Tularaemia, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A54.8,Other gonococcal infections,Infections of Other or unspecified organs,oth_organs,164
+B25.8,Other cytomegaloviral diseases,Infections of Other or unspecified organs,oth_organs,164
+A52.8,"Late syphilis, latent",Infections of Other or unspecified organs,oth_organs,164
+A69,Other spirochaetal infections,Infections of Other or unspecified organs,oth_organs,164
+A51.4,Other secondary syphilis,Infections of Other or unspecified organs,oth_organs,164
+A78,Q fever,Infections of Other or unspecified organs,oth_organs,164
+A42.1,Abdominal actinomycosis,Infections of Other or unspecified organs,oth_organs,164
+A39.8,Other meningococcal infections,Infections of Other or unspecified organs,oth_organs,164
+A39.9,"Meningococcal infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A42.8,Other forms of actinomycosis,Infections of Other or unspecified organs,oth_organs,164
+A43.8,Other forms of nocardiosis,Infections of Other or unspecified organs,oth_organs,164
+A27,Leptospirosis,Infections of Other or unspecified organs,oth_organs,164
+A22.9,"Anthrax, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B33.3,"Retrovirus infections, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+B90.8,Sequelae of tuberculosis of other organs,Infections of Other or unspecified organs,oth_organs,164
+B33.0,Epidemic myalgia,Infections of Other or unspecified organs,oth_organs,164
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,Infections of Other or unspecified organs,oth_organs,164
+B39.3,Disseminated histoplasmosis capsulati,Infections of Other or unspecified organs,oth_organs,164
+A50,Congenital syphilis,Infections of Other or unspecified organs,oth_organs,164
+B58.8,Toxoplasmosis with other organ involvement,Infections of Other or unspecified organs,oth_organs,164
+A02.8,Other specified salmonella infections,Infections of Other or unspecified organs,oth_organs,164
+M63.0,Myositis in bacterial diseases classified elsewhere,Infections of Other or unspecified organs,oth_organs,164
+G94.0,Hydrocephalus in infectious and parasitic diseases classified elsewhere,Infections of Other or unspecified organs,oth_organs,164
+B67.6,"Echinococcus multilocularis infection, other and multiple sites",Infections of Other or unspecified organs,oth_organs,164
+A19,Miliary tuberculosis,Infections of Other or unspecified organs,oth_organs,164
+J11.1,"Influenza with other respiratory manifestations, virus not identified",Infections of Other or unspecified organs,oth_organs,164
+B46.9,"Zygomycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+G63.0,Polyneuropathy in infectious and parasitic diseases classified elsewhere,Infections of Other or unspecified organs,oth_organs,164
+A92,Other mosquito-borne viral fevers,Infections of Other or unspecified organs,oth_organs,164
+A49,Bacterial infection of unspecified site,Infections of Other or unspecified organs,oth_organs,164
+B50.9,"Plasmodium falciparum malaria, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A43.9,"Nocardiosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+M73.1,Syphilitic bursitis,Infections of Other or unspecified organs,oth_organs,164
+A70,Chlamydia psittaci infection,Infections of Other or unspecified organs,oth_organs,164
+B44.9,"Aspergillosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B44.8,Other forms of aspergillosis,Infections of Other or unspecified organs,oth_organs,164
+A42.2,Cervicofacial actinomycosis,Infections of Other or unspecified organs,oth_organs,164
+B55.0,Visceral leishmaniasis,Infections of Other or unspecified organs,oth_organs,164
+A31.9,"Mycobacterial infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B33.8,Other specified viral diseases,Infections of Other or unspecified organs,oth_organs,164
+A95,Yellow fever,Infections of Other or unspecified organs,oth_organs,164
+B42.8,Other forms of sporotrichosis,Infections of Other or unspecified organs,oth_organs,164
+B94.8,Sequelae of other specified infectious and parasitic diseases,Infections of Other or unspecified organs,oth_organs,164
+B45.8,Other forms of cryptococcosis,Infections of Other or unspecified organs,oth_organs,164
+J11.8,"Influenza with other manifestations, virus not identified",Infections of Other or unspecified organs,oth_organs,164
+B60,"Other protozoal diseases, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+B39.5,Histoplasmosis duboisii,Infections of Other or unspecified organs,oth_organs,164
+B39.4,"Histoplasmosis capsulati, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B45.7,Disseminated cryptococcosis,Infections of Other or unspecified organs,oth_organs,164
+A51.2,Primary syphilis of other sites,Infections of Other or unspecified organs,oth_organs,164
+B37.9,"Candidiasis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+J10.8,"Influenza with other manifestations, other influenza virus identified",Infections of Other or unspecified organs,oth_organs,164
+J85.3,Abscess of mediastinum,Infections of Other or unspecified organs,oth_organs,164
+B72,Dracunculiasis,Infections of Other or unspecified organs,oth_organs,164
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Infections of Other or unspecified organs,oth_organs,164
+B47.0,Eumycetoma,Infections of Other or unspecified organs,oth_organs,164
+M68.0,Synovitis and tenosynovitis in bacterial diseases classified elsewhere,Infections of Other or unspecified organs,oth_organs,164
+B78.9,"Strongyloidiasis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+P39.8,Other specified infections specific to the perinatal period,Infections of Other or unspecified organs,oth_organs,164
+A31.8,Other mycobacterial infections,Infections of Other or unspecified organs,oth_organs,164
+B58.9,"Toxoplasmosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Infections of Other or unspecified organs,oth_organs,164
+A68,Relapsing fevers,Infections of Other or unspecified organs,oth_organs,164
+B65,Schistosomiasis [bilharziasis],Infections of Other or unspecified organs,oth_organs,164
+B98.1,Vibrio vulnificus as the cause of diseases classified to other chapters,Infections of Other or unspecified organs,oth_organs,164
+B90.9,Sequelae of respiratory and unspecified tuberculosis,Infections of Other or unspecified organs,oth_organs,164
+A30,Leprosy [Hansen's disease],Infections of Other or unspecified organs,oth_organs,164
+B99,Other and unspecified infectious diseases,Infections of Other or unspecified organs,oth_organs,164
+A64,Unspecified sexually transmitted disease,Infections of Other or unspecified organs,oth_organs,164
+B92,Sequelae of leprosy,Infections of Other or unspecified organs,oth_organs,164
+B33.1,Ross River disease,Infections of Other or unspecified organs,oth_organs,164
+B42.9,"Sporotrichosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B77,Ascariasis,Infections of Other or unspecified organs,oth_organs,164
+B52,Plasmodium malariae malaria,Infections of Other or unspecified organs,oth_organs,164
+B46.8,Other zygomycoses,Infections of Other or unspecified organs,oth_organs,164
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,Infections of Other or unspecified organs,oth_organs,164
+A02.2,Localized salmonella infections,Infections of Other or unspecified organs,oth_organs,164
+B40.7,Disseminated blastomycosis,Infections of Other or unspecified organs,oth_organs,164
+A59.8,Trichomoniasis of other sites,Infections of Other or unspecified organs,oth_organs,164
+B50.8,Other severe and complicated Plasmodium falciparum malaria,Infections of Other or unspecified organs,oth_organs,164
+A51.5,"Early syphilis, latent",Infections of Other or unspecified organs,oth_organs,164
+A90,Dengue fever [classical dengue],Infections of Other or unspecified organs,oth_organs,164
+B43.9,"Chromomycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B64,Unspecified protozoal disease,Infections of Other or unspecified organs,oth_organs,164
+M65.1,Other infective (teno)synovitis,Infections of Other or unspecified organs,oth_organs,164
+B68,Taeniasis,Infections of Other or unspecified organs,oth_organs,164
+B00.9,"Herpesviral infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A20.8,Other forms of plague,Infections of Other or unspecified organs,oth_organs,164
+M71.1,Other infective bursitis,Infections of Other or unspecified organs,oth_organs,164
+B00.8,Other forms of herpesviral infection,Infections of Other or unspecified organs,oth_organs,164
+B69.8,Cysticercosis of other sites,Infections of Other or unspecified organs,oth_organs,164
+A65,Nonvenereal syphilis,Infections of Other or unspecified organs,oth_organs,164
+B05.8,Measles with other complications,Infections of Other or unspecified organs,oth_organs,164
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+A21.8,Other forms of tularaemia,Infections of Other or unspecified organs,oth_organs,164
+B38.9,"Coccidioidomycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B44.7,Disseminated aspergillosis,Infections of Other or unspecified organs,oth_organs,164
+B41.8,Other forms of paracoccidioidomycosis,Infections of Other or unspecified organs,oth_organs,164
+A06.8,Amoebic infection of other sites,Infections of Other or unspecified organs,oth_organs,164
+A26.8,Other forms of erysipeloid,Infections of Other or unspecified organs,oth_organs,164
+B83,Other helminthiases,Infections of Other or unspecified organs,oth_organs,164
+B75,Trichinellosis,Infections of Other or unspecified organs,oth_organs,164
+G53.1,Multiple cranial nerve palsies in infectious and parasitic diseases classified elsewhere,Infections of Other or unspecified organs,oth_organs,164
+A36.8,Other diphtheria,Infections of Other or unspecified organs,oth_organs,164
+B33.4,Hantavirus (cardio-)pulmonary syndrome,Infections of Other or unspecified organs,oth_organs,164
+A91,Dengue haemorrhagic fever,Infections of Other or unspecified organs,oth_organs,164
+B73,Onchocerciasis,Infections of Other or unspecified organs,oth_organs,164
+J37,Chronic laryngitis and laryngotracheitis,Infections of Other or unspecified organs,oth_organs,164
+G04.1,Tropical spastic paraplegia,Infections of Other or unspecified organs,oth_organs,164
+A36.9,"Diphtheria, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B69.9,"Cysticercosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A25,Rat-bite fevers,Infections of Other or unspecified organs,oth_organs,164
+P37,Other congenital infectious and parasitic diseases,Infections of Other or unspecified organs,oth_organs,164
+A53,Other and unspecified syphilis,Infections of Other or unspecified organs,oth_organs,164
+A38,Scarlet fever,Infections of Other or unspecified organs,oth_organs,164
+A77,Spotted fever [tick-borne rickettsioses],Infections of Other or unspecified organs,oth_organs,164
+M63.2,Myositis in other infectious diseases classified elsewhere,Infections of Other or unspecified organs,oth_organs,164
+A67,Pinta [carate],Infections of Other or unspecified organs,oth_organs,164
+A02.9,"Salmonella infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A44,Bartonellosis,Infections of Other or unspecified organs,oth_organs,164
+B39.9,"Histoplasmosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A75,Typhus fever,Infections of Other or unspecified organs,oth_organs,164
+B49,Unspecified mycosis,Infections of Other or unspecified organs,oth_organs,164
+B67.9,"Echinococcosis, other and unspecified",Infections of Other or unspecified organs,oth_organs,164
+B02.9,Zoster without complication,Infections of Other or unspecified organs,oth_organs,164
+A32.8,Other forms of listeriosis,Infections of Other or unspecified organs,oth_organs,164
+B71,Other cestode infections,Infections of Other or unspecified organs,oth_organs,164
+M65.0,Abscess of tendon sheath,Infections of Other or unspecified organs,oth_organs,164
+B48,"Other mycoses, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+M71.0,Abscess of bursa,Infections of Other or unspecified organs,oth_organs,164
+B46.1,Rhinocerebral mucormycosis,Infections of Other or unspecified organs,oth_organs,164
+B45.9,"Cryptococcosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B01.9,Varicella without complication,Infections of Other or unspecified organs,oth_organs,164
+B66,Other fluke infections,Infections of Other or unspecified organs,oth_organs,164
+B02.8,Zoster with other complications,Infections of Other or unspecified organs,oth_organs,164
+A42.9,"Actinomycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A59.9,"Trichomoniasis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A99,Unspecified viral haemorrhagic fever,Infections of Other or unspecified organs,oth_organs,164
+B67.3,"Echinococcus granulosus infection, other and multiple sites",Infections of Other or unspecified organs,oth_organs,164
+A20.9,"Plague, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A21.7,Generalised tularaemia,Infections of Other or unspecified organs,oth_organs,164
+B26.9,Mumps without complication,Infections of Other or unspecified organs,oth_organs,164
+B97,Viral agents as the cause of diseases classified to other chapters,Infections of Other or unspecified organs,oth_organs,164
+P39.9,"Infection specific to the perinatal period, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B40.8,Other forms of blastomycosis,Infections of Other or unspecified organs,oth_organs,164
+A94,Unspecified arthropod-borne viral fever,Infections of Other or unspecified organs,oth_organs,164
+B41.9,"Paracoccidioidomycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B79,Trichuriasis,Infections of Other or unspecified organs,oth_organs,164
+B87.8,Myiasis of other sites,Infections of Other or unspecified organs,oth_organs,164
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+A52.9,"Late syphilis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B87.9,"Myiasis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B25.9,"Cytomegaloviral disease, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A52.7,Other symptomatic late syphilis,Infections of Other or unspecified organs,oth_organs,164
+B43.8,Other forms of chromomycosis,Infections of Other or unspecified organs,oth_organs,164
+B05.9,Measles without complication,Infections of Other or unspecified organs,oth_organs,164
+A74.8,Other chlamydial diseases,Infections of Other or unspecified organs,oth_organs,164
+B47.9,"Mycetoma, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A22.8,Other forms of anthrax,Infections of Other or unspecified organs,oth_organs,164
+B47.1,Actinomycetoma,Infections of Other or unspecified organs,oth_organs,164
+A51.9,"Early syphilis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A23,Brucellosis,Infections of Other or unspecified organs,oth_organs,164
+B37.8,Candidiasis of other sites,Infections of Other or unspecified organs,oth_organs,164
+B25.2,Cytomegaloviral pancreatitis,Infections of Other or unspecified organs,oth_organs,164
+B89,Unspecified parasitic disease,Infections of Other or unspecified organs,oth_organs,164
+B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis,Infections of Other or unspecified organs,oth_organs,164
+B54,Unspecified malaria,Infections of Other or unspecified organs,oth_organs,164
+J10.1,"Influenza with other respiratory manifestations, other influenza virus identified",Infections of Other or unspecified organs,oth_organs,164
+A32.9,"Listeriosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B57,Chagas' disease,Infections of Other or unspecified organs,oth_organs,164
+B24,Unspecified human immunodeficiency virus [HIV] disease,Infections of Other or unspecified organs,oth_organs,164
+A35,Other tetanus,Infections of Other or unspecified organs,oth_organs,164
+G53.0,Postzoster neuralgia,Infections of Other or unspecified organs,oth_organs,164
+A74.9,"Chlamydial infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Infections of Other or unspecified organs,oth_organs,164
+A66,Yaws,Infections of Other or unspecified organs,oth_organs,164
+B70,Diphyllobothriasis and sparganosis,Infections of Other or unspecified organs,oth_organs,164
+B41.7,Disseminated paracoccidioidomycosis,Infections of Other or unspecified organs,oth_organs,164
+B53,Other parasitologically confirmed malaria,Infections of Other or unspecified organs,oth_organs,164
+A24,Glanders and melioidosis,Infections of Other or unspecified organs,oth_organs,164
+B40.9,"Blastomycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+P39.2,"Intra-amniotic infection of fetus, not elsewhere classified",Infections of Other or unspecified organs,oth_organs,164
+A26.9,"Erysipeloid, unspecified",Infections of Other or unspecified organs,oth_organs,164
+A63.8,Other specified predominantly sexually transmitted diseases,Infections of Other or unspecified organs,oth_organs,164
+B42.7,Disseminated sporotrichosis,Infections of Other or unspecified organs,oth_organs,164
+B80,Enterobiasis,Infections of Other or unspecified organs,oth_organs,164
+B67.7,"Echinococcus multilocularis infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+P35,Congenital viral diseases,Infections of Other or unspecified organs,oth_organs,164
+B38.8,Other forms of coccidioidomycosis,Infections of Other or unspecified organs,oth_organs,164
+B46.4,Disseminated mucormycosis,Infections of Other or unspecified organs,oth_organs,164
+M60.0,Infective myositis,Infections of Other or unspecified organs,oth_organs,164
+B06.8,Rubella with other complications,Infections of Other or unspecified organs,oth_organs,164
+A54.9,"Gonococcal infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B55.9,"Leishmaniasis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B51,Plasmodium vivax malaria,Infections of Other or unspecified organs,oth_organs,164
+B06.9,Rubella without complication,Infections of Other or unspecified organs,oth_organs,164
+B01.8,Varicella with other complications,Infections of Other or unspecified organs,oth_organs,164
+A18.7,Tuberculosis of adrenal glands,Infections of Other or unspecified organs,oth_organs,164
+B26.8,Mumps with other complications,Infections of Other or unspecified organs,oth_organs,164
+B34,Viral infection of unspecified site,Infections of Other or unspecified organs,oth_organs,164
+B94.9,Sequelae of unspecified infectious or parasitic disease,Infections of Other or unspecified organs,oth_organs,164
+B38.7,Disseminated coccidioidomycosis,Infections of Other or unspecified organs,oth_organs,164
+A79,Other rickettsioses,Infections of Other or unspecified organs,oth_organs,164
+B67.4,"Echinococcus granulosus infection, unspecified",Infections of Other or unspecified organs,oth_organs,164
+B46.5,"Mucormycosis, unspecified",Infections of Other or unspecified organs,oth_organs,164
+P39.0,Neonatal infective mastitis,Infections of Other or unspecified organs,oth_organs,164
+B55.2,Mucocutaneous leishmaniasis,Infections of Other or unspecified organs,oth_organs,164
+M72.6,Necrotizing fasciitis,Infections of Other or unspecified organs,oth_organs,164
+K86.3,Pseudocyst of pancreas,Pancreatitis,pancreatitis,76
+K86.1,Other chronic pancreatitis,Pancreatitis,pancreatitis,76
+K86.0,Alcohol-induced chronic pancreatitis,Pancreatitis,pancreatitis,76
+K85,Acute pancreatitis,Pancreatitis,pancreatitis,76
+B87,Myiasis,Parasitic infections,parasitic,173
+B81,"Other intestinal helminthiases, not elsewhere classified",Parasitic infections,parasitic,173
+B80,Enterobiasis,Parasitic infections,parasitic,173
+B89,Unspecified parasitic disease,Parasitic infections,parasitic,173
+B82,Unspecified intestinal parasitism,Parasitic infections,parasitic,173
+B56,African trypanosomiasis,Parasitic infections,parasitic,173
+B83,Other helminthiases,Parasitic infections,parasitic,173
+B74,Filariasis,Parasitic infections,parasitic,173
+K23.1,Megaoesophagus in Chagas' disease,Parasitic infections,parasitic,173
+B72,Dracunculiasis,Parasitic infections,parasitic,173
+B85,Pediculosis and phthiriasis,Parasitic infections,parasitic,173
+J17.3,Pneumonia in parasitic diseases,Parasitic infections,parasitic,173
+A59,Trichomoniasis,Parasitic infections,parasitic,173
+B88,Other infestations,Parasitic infections,parasitic,173
+B86,Scabies,Parasitic infections,parasitic,173
+B58,Toxoplasmosis,Parasitic infections,parasitic,173
+B57,Chagas' disease,Parasitic infections,parasitic,173
+P37.1,Congenital toxoplasmosis,Parasitic infections,parasitic,173
+B53,Other parasitologically confirmed malaria,Parasitic infections,parasitic,173
+A06,Amoebiasis,Parasitic infections,parasitic,173
+B71,Other cestode infections,Parasitic infections,parasitic,173
+B78,Strongyloidiasis,Parasitic infections,parasitic,173
+B52,Plasmodium malariae malaria,Parasitic infections,parasitic,173
+B64,Unspecified protozoal disease,Parasitic infections,parasitic,173
+B73,Onchocerciasis,Parasitic infections,parasitic,173
+B77,Ascariasis,Parasitic infections,parasitic,173
+B66,Other fluke infections,Parasitic infections,parasitic,173
+B70,Diphyllobothriasis and sparganosis,Parasitic infections,parasitic,173
+B65,Schistosomiasis [bilharziasis],Parasitic infections,parasitic,173
+B51,Plasmodium vivax malaria,Parasitic infections,parasitic,173
+B79,Trichuriasis,Parasitic infections,parasitic,173
+B60,"Other protozoal diseases, not elsewhere classified",Parasitic infections,parasitic,173
+B54,Unspecified malaria,Parasitic infections,parasitic,173
+B55,Leishmaniasis,Parasitic infections,parasitic,173
+A07,Other protozoal intestinal diseases,Parasitic infections,parasitic,173
+B69,Cysticercosis,Parasitic infections,parasitic,173
+B76,Hookworm diseases,Parasitic infections,parasitic,173
+B67,Echinococcosis,Parasitic infections,parasitic,173
+B68,Taeniasis,Parasitic infections,parasitic,173
+B50,Plasmodium falciparum malaria,Parasitic infections,parasitic,173
+B75,Trichinellosis,Parasitic infections,parasitic,173
+G20,Parkinson's disease,Parkinson's disease,parkinsons,224
+F02.3,Dementia in Parkinson's disease,Parkinson's disease,parkinsons,224
+E28.2,Polycystic ovarian syndrome,Polycystic ovarian syndrome,pcos,88
+F61,Mixed and other personality disorders,Personality disorders,pd,190
+F60,Specific personality disorders,Personality disorders,pd,190
+I26,Pulmonary embolism,Pulmonary embolism,pe,38
+I31.3,Pericardial effusion (noninflammatory),Pericardial effusion (noninflammatory),pericardial_effusion,35
+G56.4,Causalgia,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G62,Other polyneuropathies,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G56.2,Lesion of ulnar nerve,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G56.3,Lesion of radial nerve,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+M49.4,Neuropathic spondylopathy,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+E85.1,Neuropathic heredofamilial amyloidosis,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G61,Inflammatory polyneuropathy,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G64,Other disorders of peripheral nervous system,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G56.9,"Mononeuropathy of upper limb, unspecified",Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G56.1,Other lesions of median nerve,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+M14.6,Neuropathic arthropathy,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G57,Mononeuropathies of lower limb,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G58,Other mononeuropathies,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G60,Hereditary and idiopathic neuropathy,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G59,Mononeuropathy in diseases classified elsewhere,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G63,Polyneuropathy in diseases classified elsewhere,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+G56.8,Other mononeuropathies of upper limb,Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes),periph_neuro,225
+I74.5,Embolism and thrombosis of iliac artery,Peripheral arterial disease,peripheral_arterial_disease,36
+I74.3,Embolism and thrombosis of arteries of lower extremities,Peripheral arterial disease,peripheral_arterial_disease,36
+I74.4,"Embolism and thrombosis of arteries of extremities, unspecified",Peripheral arterial disease,peripheral_arterial_disease,36
+I73.9,"Peripheral vascular disease, unspecified",Peripheral arterial disease,peripheral_arterial_disease,36
+I73.8,Other specified peripheral vascular diseases,Peripheral arterial disease,peripheral_arterial_disease,36
+I73.1,Thromboangiitis obliterans [Buerger],Peripheral arterial disease,peripheral_arterial_disease,36
+K35.3,Acute appendicitis with localized peritonitis,Peritonitis,peritonitis,78
+K26.6,Duodenal ulcer - Chronic or unspecified with both haemorrhage and perforation,Peritonitis,peritonitis,78
+K28.2,Gastrojejunal ulcer - Acute with both haemorrhage and perforation,Peritonitis,peritonitis,78
+K25.2,Gastric ulcer - Acute with both haemorrhage and perforation,Peritonitis,peritonitis,78
+K63.1,Perforation of intestine (nontraumatic),Peritonitis,peritonitis,78
+K28.6,Gastrojejunal ulcer - Chronic or unspecified with both haemorrhage and perforation,Peritonitis,peritonitis,78
+K25.5,Gastric ulcer - Chronic or unspecified with perforation,Peritonitis,peritonitis,78
+K67,Disorders of peritoneum in infectious diseases classified elsewhere,Peritonitis,peritonitis,78
+K27.6,"Peptic ulcer, site unspecified - Chronic or unspecified with both haemorrhage and perforation",Peritonitis,peritonitis,78
+K27.5,"Peptic ulcer, site unspecified - Chronic or unspecified with perforation",Peritonitis,peritonitis,78
+K28.1,Gastrojejunal ulcer - Acute with perforation,Peritonitis,peritonitis,78
+K28.5,Gastrojejunal ulcer - Chronic or unspecified with perforation,Peritonitis,peritonitis,78
+K26.2,Duodenal ulcer - Acute with both haemorrhage and perforation,Peritonitis,peritonitis,78
+K26.1,Duodenal ulcer - Acute with perforation,Peritonitis,peritonitis,78
+K57.0,Diverticular disease of small intestine with perforation and abscess,Peritonitis,peritonitis,78
+K26.5,Duodenal ulcer - Chronic or unspecified with perforation,Peritonitis,peritonitis,78
+K57.2,Diverticular disease of large intestine with perforation and abscess,Peritonitis,peritonitis,78
+K65,Peritonitis,Peritonitis,peritonitis,78
+K27.2,"Peptic ulcer, site unspecified - Acute with both haemorrhage and perforation",Peritonitis,peritonitis,78
+K25.1,Gastric ulcer - Acute with perforation,Peritonitis,peritonitis,78
+K35.2,Acute appendicitis with generalized peritonitis,Peritonitis,peritonitis,78
+K57.8,"Diverticular disease of intestine, part unspecified, with perforation and abscess",Peritonitis,peritonitis,78
+K57.4,Diverticular disease of both small and large intestine with perforation and abscess,Peritonitis,peritonitis,78
+K25.6,Gastric ulcer - Chronic or unspecified with both haemorrhage and perforation,Peritonitis,peritonitis,78
+K27.1,"Peptic ulcer, site unspecified - Acute with perforation",Peritonitis,peritonitis,78
+N74,Female pelvic inflammatory disorders in diseases classified elsewhere,Female pelvic inflammatory disease,pid,156
+N72,Inflammatory disease of cervix uteri,Female pelvic inflammatory disease,pid,156
+N71,"Inflammatory disease of uterus, except cervix",Female pelvic inflammatory disease,pid,156
+N73,Other female pelvic inflammatory diseases,Female pelvic inflammatory disease,pid,156
+N70,Salpingitis and oophoritis,Female pelvic inflammatory disease,pid,156
+L05,Pilonidal cyst,Pilonidal cyst/sinus,pilonidal,234
+J91,Pleural effusion in conditions classified elsewhere,Pleural effusion,pleural_effusion,131
+J90,"Pleural effusion, not elsewhere classified",Pleural effusion,pleural_effusion,131
+J92.0,Pleural plaque with presence of asbestos,Pleural plaque,pleural_plaque,132
+J92.9,Pleural plaque without asbestos,Pleural plaque,pleural_plaque,132
+M31.5,Giant cell arteritis with polymyalgia rheumatica,Polymyalgia Rheumatica,pmr,206
+M35.3,Polymyalgia rheumatica,Polymyalgia Rheumatica,pmr,206
+J15.6,Pneumonia due to other Gram-negative bacteria,Pneumonitis,pneumonitis,133
+J16,"Pneumonia due to other infectious organisms, not elsewhere classified",Pneumonitis,pneumonitis,133
+J18.1,"Lobar pneumonia, unspecified organism",Pneumonitis,pneumonitis,133
+J18.9,"Pneumonia, unspecified organism",Pneumonitis,pneumonitis,133
+J15.0,Pneumonia due to Klebsiella pneumoniae,Pneumonitis,pneumonitis,133
+J18.8,"Other pneumonia, unspecified organism",Pneumonitis,pneumonitis,133
+J15.1,Pneumonia due to Pseudomonas,Pneumonitis,pneumonitis,133
+J13,Pneumonia due to Streptococcus pneumoniae,Pneumonitis,pneumonitis,133
+J15.9,Unspecified bacterial pneumonia,Pneumonitis,pneumonitis,133
+J15.4,Pneumonia due to other streptococci,Pneumonitis,pneumonitis,133
+J15.5,Pneumonia due to Escherichia coli,Pneumonitis,pneumonitis,133
+J15,bronchopneumonia due to bacteria other than S. pneumoniae and H. influenzae,Pneumonitis,pneumonitis,133
+J16.0,Chlamydial pneumonia,Pneumonitis,pneumonitis,133
+J15.7,Pneumonia due to Mycoplasma pneumoniae,Pneumonitis,pneumonitis,133
+J15.8,Pneumonia due to other specified bacteria,Pneumonitis,pneumonitis,133
+J15.3,"Pneumonia due to streptococcus, group B",Pneumonitis,pneumonitis,133
+J14,Pneumonia due to Hemophilus influenzae,Pneumonitis,pneumonitis,133
+J15.2,Pneumonia due to staphylococcus,Pneumonitis,pneumonitis,133
+J93,Pneumothorax,Pneumothorax,pneumothorax,134
+K76.6,Portal hypertension,Portal hypertension,portal_htn,79
+H30.1,Disseminated chorioretinal inflammation,Posterior Uveitis,post_uveitis,96
+H30.9,"Chorioretinal inflammation, unspecified",Posterior Uveitis,post_uveitis,96
+H30.0,Focal chorioretinal inflammation,Posterior Uveitis,post_uveitis,96
+H32.0,Chorioretinal inflammation in infectious and parasitic diseases classified elsewhere,Posterior Uveitis,post_uveitis,96
+H30.8,Other chorioretinal inflammations,Posterior Uveitis,post_uveitis,96
+I27.0,Primary pulmonary hypertension,Primary pulmonary hypertension,prim_pulm_htn,37
+L40.5,Arthropathic psoriasis,Psoriatic arthropathy,psa,208
+M07.2,Psoriatic spondylitis,Psoriatic arthropathy,psa,208
+M07.3,Other psoriatic arthropathies,Psoriatic arthropathy,psa,208
+M07.1,Arthritis mutilans,Psoriatic arthropathy,psa,208
+M07.0,Distal interphalangeal psoriatic arthropathy,Psoriatic arthropathy,psa,208
+L40,Psoriasis,Psoriasis,psoriasis,235
+M07.3,Other psoriatic arthropathies,Psoriasis,psoriasis,235
+M07.1,Arthritis mutilans,Psoriasis,psoriasis,235
+M07.0,Distal interphalangeal psoriatic arthropathy,Psoriasis,psoriasis,235
+M07.2,Psoriatic spondylitis,Psoriasis,psoriasis,235
+M09.0,Juvenile arthritis in psoriasis,Psoriasis,psoriasis,235
+E21.2,Other hyperparathyroidism,Hyperparathyroidism,pth,86
+E21.0,Primary hyperparathyroidism,Hyperparathyroidism,pth,86
+E21.3,"Hyperparathyroidism, unspecified",Hyperparathyroidism,pth,86
+E21.1,"Secondary hyperparathyroidism, not elsewhere classified",Hyperparathyroidism,pth,86
+H02.4,Ptosis of eyelid,Ptosis of eyelid,ptosis,97
+J84.1,Other interstitial pulmonary diseases with fibrosis,Other interstitial pulmonary diseases with fibrosis,pulm_fibrosis,130
+I73.0,Raynaud's syndrome,Raynaud's syndrome,raynauds,144
+I45.1,Other and unspecified right bundle-branch block,Right bundle branch block,rbbb,40
+M03,Postinfective and reactive arthropathies in diseases classified elsewhere,Postinfective and reactive arthropathies,reactive,207
+M02,Reactive arthropathies,Postinfective and reactive arthropathies,reactive,207
+J96,"Respiratory failure, not elsewhere classified",Respiratory failure,resp_failure,135
+H33.0,Retinal detachment with retinal break,Retinal detachments and breaks,retinal_detach,98
+H33.3,Retinal breaks without detachment,Retinal detachments and breaks,retinal_detach,98
+H33.4,Traction detachment of retina,Retinal detachments and breaks,retinal_detach,98
+H33.5,Other retinal detachments,Retinal detachments and breaks,retinal_detach,98
+H34,Retinal vascular occlusions,Retinal vascular occlusions,retinal_vasc_occl,99
+I01,Rheumatic fever with heart involvement,Rheumatic fever,rh_fever,174
+I07,Rheumatic tricuspid valve diseases,Rheumatic fever,rh_fever,174
+I09,Other rheumatic heart diseases,Rheumatic fever,rh_fever,174
+I06,Rheumatic aortic valve diseases,Rheumatic fever,rh_fever,174
+I02,Rheumatic chorea,Rheumatic fever,rh_fever,174
+I00,Rheumatic fever without mention of heart involvement,Rheumatic fever,rh_fever,174
+I05,Rheumatic mitral valve diseases,Rheumatic fever,rh_fever,174
+I06,Rheumatic aortic valve diseases,Rheumatic valve dz,rh_valve,39
+I05,Rheumatic mitral valve diseases,Rheumatic valve dz,rh_valve,39
+I07,Rheumatic tricuspid valve diseases,Rheumatic valve dz,rh_valve,39
+J99.0,Rheumatoid lung disease,Rheumatoid Arthritis,rha,145
+M05,Seropositive rheumatoid arthritis,Rheumatoid Arthritis,rha,145
+M06,Other rheumatoid arthritis,Rheumatoid Arthritis,rha,145
+L71.8,Other rosacea,Rosacea,rosacea,236
+L71.9,"Rosacea, unspecified",Rosacea,rosacea,236
+L71.1,Rhinophyma,Rosacea,rosacea,236
+D86,Sarcoidosis,Sarcoidosis,sarcoid,146
+M63.3,Myositis in sarcoidosis,Sarcoidosis,sarcoid,146
+G53.2,Multiple cranial nerve palsies in sarcoidosis,Sarcoidosis,sarcoid,146
+F29,Unspecified nonorganic psychosis,"Schizophrenia, schizotypal and delusional disorders",schizo,191
+F21,Schizotypal disorder,"Schizophrenia, schizotypal and delusional disorders",schizo,191
+F25,Schizoaffective disorders,"Schizophrenia, schizotypal and delusional disorders",schizo,191
+F28,Other nonorganic psychotic disorders,"Schizophrenia, schizotypal and delusional disorders",schizo,191
+F22,Persistent delusional disorders,"Schizophrenia, schizotypal and delusional disorders",schizo,191
+F20,Schizophrenia,"Schizophrenia, schizotypal and delusional disorders",schizo,191
+H19.0,Scleritis and episcleritis in diseases classified elsewhere,Scleritis and episcleritis,scleritis,100
+H15.1,Episcleritis,Scleritis and episcleritis,scleritis,100
+H15.0,Scleritis,Scleritis and episcleritis,scleritis,100
+M41,Scoliosis,Scoliosis,scoliosis,209
+L21,Seborrhoeic dermatitis,Seborrheic dermatitis,seb_derm,237
+A39.2,Acute meningococcaemia,Septicaemia,sepsis,175
+A39.1,Waterhouse-Friderichsen syndrome,Septicaemia,sepsis,175
+B37.7,Candidal sepsis,Septicaemia,sepsis,175
+A22.7,Anthrax sepsis,Septicaemia,sepsis,175
+A20.7,Septicaemic plague,Septicaemia,sepsis,175
+A41,Other sepsis,Septicaemia,sepsis,175
+A39.3,Chronic meningococcaemia,Septicaemia,sepsis,175
+A42.7,Actinomycotic sepsis,Septicaemia,sepsis,175
+A02.1,Salmonella sepsis,Septicaemia,sepsis,175
+A40,Streptococcal sepsis,Septicaemia,sepsis,175
+A32.7,Listerial sepsis,Septicaemia,sepsis,175
+A26.7,Erysipelothrix sepsis,Septicaemia,sepsis,175
+A39.4,"Meningococcaemia, unspecified",Septicaemia,sepsis,175
+P36,Bacterial sepsis of newborn,Septicaemia,sepsis,175
+E22.2,Syndrome of inappropriate secretion of antidiuretic hormone,Syndrome of inappropriate secretion of antidiuretic hormone,siadh,89
+I49.5,Sick sinus syndrome,Sick sinus syndrome,sick_sinus,41
+D57.1,Sickle-cell anaemia without crisis,Sickle-cell anaemia,sickle_cell,147
+D57.2,Double heterozygous sickling disorders,Sickle-cell anaemia,sickle_cell,147
+D57.0,Sickle-cell anaemia with crisis,Sickle-cell anaemia,sickle_cell,147
+D57.8,Other sickle-cell disorders,Sickle-cell anaemia,sickle_cell,147
+J32,Chronic sinusitis,Chronic sinusitis,sinusitis,127
+M35.0,Sicca syndrome [SjÃ¶gren],Sjogren's disease,sjogren,148
+B36,Other superficial mycoses,Infection of skin and subcutaneous tissues,skin,163
+L30.3,Infective dermatitis,Infection of skin and subcutaneous tissues,skin,163
+A36.3,Cutaneous diphtheria,Infection of skin and subcutaneous tissues,skin,163
+B87.0,Cutaneous myiasis,Infection of skin and subcutaneous tissues,skin,163
+B88,Other infestations,Infection of skin and subcutaneous tissues,skin,163
+B78.1,Cutaneous strongyloidiasis,Infection of skin and subcutaneous tissues,skin,163
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,Infection of skin and subcutaneous tissues,skin,163
+L03,Cellulitis,Infection of skin and subcutaneous tissues,skin,163
+A20.1,Cellulocutaneous plague,Infection of skin and subcutaneous tissues,skin,163
+B55.1,Cutaneous leishmaniasis,Infection of skin and subcutaneous tissues,skin,163
+A21.0,Ulceroglandular tularaemia,Infection of skin and subcutaneous tissues,skin,163
+B00.1,Herpesviral vesicular dermatitis,Infection of skin and subcutaneous tissues,skin,163
+B86,Scabies,Infection of skin and subcutaneous tissues,skin,163
+B87.1,Wound myiasis,Infection of skin and subcutaneous tissues,skin,163
+B43.0,Cutaneous chromomycosis,Infection of skin and subcutaneous tissues,skin,163
+L00,Staphylococcal scalded skin syndrome,Infection of skin and subcutaneous tissues,skin,163
+A43.1,Cutaneous nocardiosis,Infection of skin and subcutaneous tissues,skin,163
+A26.0,Cutaneous erysipeloid,Infection of skin and subcutaneous tissues,skin,163
+L08,Other local infections of skin and subcutaneous tissue,Infection of skin and subcutaneous tissues,skin,163
+B45.2,Cutaneous cryptococcosis,Infection of skin and subcutaneous tissues,skin,163
+A51.3,Secondary syphilis of skin and mucous membranes,Infection of skin and subcutaneous tissues,skin,163
+A22.0,Cutaneous anthrax,Infection of skin and subcutaneous tissues,skin,163
+B85,Pediculosis and phthiriasis,Infection of skin and subcutaneous tissues,skin,163
+B43.2,Subcutaneous phaeomycotic abscess and cyst,Infection of skin and subcutaneous tissues,skin,163
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",Infection of skin and subcutaneous tissues,skin,163
+B46.3,Cutaneous mucormycosis,Infection of skin and subcutaneous tissues,skin,163
+B00.0,Eczema herpeticum,Infection of skin and subcutaneous tissues,skin,163
+L02,"Cutaneous abscess, furuncle and carbuncle",Infection of skin and subcutaneous tissues,skin,163
+A31.1,Cutaneous mycobacterial infection,Infection of skin and subcutaneous tissues,skin,163
+A46,Erysipelas,Infection of skin and subcutaneous tissues,skin,163
+L05.0,Pilonidal cyst with abscess,Infection of skin and subcutaneous tissues,skin,163
+B37.2,Candidiasis of skin and nail,Infection of skin and subcutaneous tissues,skin,163
+B07,Viral warts,Infection of skin and subcutaneous tissues,skin,163
+L01,Impetigo,Infection of skin and subcutaneous tissues,skin,163
+P39.4,Neonatal skin infection,Infection of skin and subcutaneous tissues,skin,163
+A18.4,Tuberculosis of skin and subcutaneous tissue,Infection of skin and subcutaneous tissues,skin,163
+A06.7,Cutaneous amoebiasis,Infection of skin and subcutaneous tissues,skin,163
+B42.1,Lymphocutaneous sporotrichosis,Infection of skin and subcutaneous tissues,skin,163
+A32.0,Cutaneous listeriosis,Infection of skin and subcutaneous tissues,skin,163
+B38.3,Cutaneous coccidioidomycosis,Infection of skin and subcutaneous tissues,skin,163
+B40.3,Cutaneous blastomycosis,Infection of skin and subcutaneous tissues,skin,163
+P38,Omphalitis of newborn with or without mild haemorrhage,Infection of skin and subcutaneous tissues,skin,163
+B35,Dermatophytosis,Infection of skin and subcutaneous tissues,skin,163
+L93,Lupus erythematosus,Lupus erythematosus (local and systemic),sle,203
+M32,Systemic lupus erythematosus,Lupus erythematosus (local and systemic),sle,203
+G47.3,Sleep apnoea,Sleep apnoea,sleep_apnoea,136
+G47.0,Insomnia (NOS),Insomnia & sleep disturbances,insomnia,187
+F51.0,Primary insomnia,Insomnia & sleep disturbances,insomnia,187
+M48.0,Spinal stenosis,Spinal stenosis,spinal_stenosis,210
+M43.1,Spondylolisthesis,Spondylolisthesis,spondylolisthesis,211
+M47.8,Other spondylosis,Spondylosis,spondylosis,212
+M47.9,"Spondylosis, unspecified",Spondylosis,spondylosis,212
+M47.2,Other spondylosis with radiculopathy,Spondylosis,spondylosis,212
+M47.1,Other spondylosis with myelopathy,Spondylosis,spondylosis,212
+I20.1,Angina pectoris with documented spasm,Stable angina,stable_angina,42
+I20.9,"Angina pectoris, unspecified",Stable angina,stable_angina,42
+I20.8,Other forms of angina pectoris,Stable angina,stable_angina,42
+G46.4,Cerebellar stroke syndrome,Stroke NOS,stroke_nos,43
+G46.7,Other lacunar syndromes,Stroke NOS,stroke_nos,43
+G46.6,Pure sensory lacunar syndrome,Stroke NOS,stroke_nos,43
+G46.5,Pure motor lacunar syndrome,Stroke NOS,stroke_nos,43
+G46.3,Brain stem stroke syndrome,Stroke NOS,stroke_nos,43
+I69.4,"Sequelae of stroke, not specified as haemorrhage or infarction",Stroke NOS,stroke_nos,43
+I64,"Stroke, not specified as haemorrhage or infarction",Stroke NOS,stroke_nos,43
+G46.8,Other vascular syndromes of brain in cerebrovascular diseases,Stroke NOS,stroke_nos,43
+I60,Subarachnoid haemorrhage,Subarachnoid haemorrhage,subarach,44
+I69.0,Sequelae of subarachnoid haemorrhage,Subarachnoid haemorrhage,subarach,44
+I62.0,Subdural haemorrhage (acute)(nontraumatic),Subdural haematoma - nontraumatic,subdural_haem,45
+F18,Mental and behavioural disorders due to use of volatile solvents,Other psychoactive substance misuse,substance_misuse,189
+F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances,Other psychoactive substance misuse,substance_misuse,189
+F13,Mental and behavioural disorders due to use of sedatives or hypnotics,Other psychoactive substance misuse,substance_misuse,189
+F11,Mental and behavioural disorders due to use of opioids,Other psychoactive substance misuse,substance_misuse,189
+F14,Mental and behavioural disorders due to use of cocaine,Other psychoactive substance misuse,substance_misuse,189
+F16,Mental and behavioural disorders due to use of hallucinogens,Other psychoactive substance misuse,substance_misuse,189
+F12,Mental and behavioural disorders due to use of cannabinoids,Other psychoactive substance misuse,substance_misuse,189
+F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine",Other psychoactive substance misuse,substance_misuse,189
+I47.1,Supraventricular tachycardia,Supraventricular tachycardia,svt,46
+M34,Systemic sclerosis,Systemic sclerosis,sys_sclerosis,213
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",Tuberculosis,tb,176
+M90.0,Tuberculosis of bone,Tuberculosis,tb,176
+A18,Tuberculosis of other organs,Tuberculosis,tb,176
+A19,Miliary tuberculosis,Tuberculosis,tb,176
+M49.0,Tuberculosis of spine,Tuberculosis,tb,176
+K67.3,Tuberculous peritonitis,Tuberculosis,tb,176
+P37.0,Congenital tuberculosis,Tuberculosis,tb,176
+M01.1,Tuberculous arthritis,Tuberculosis,tb,176
+K93.0,"Tuberculous disorders of intestines, peritoneum and mesenteric glands",Tuberculosis,tb,176
+N33.0,Tuberculous cystitis,Tuberculosis,tb,176
+N74.1,Female tuberculous pelvic inflammatory disease,Tuberculosis,tb,176
+K23.0,Tuberculous oesophagitis,Tuberculosis,tb,176
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Tuberculosis,tb,176
+N74.0,Tuberculous infection of cervix uteri,Tuberculosis,tb,176
+B90,Sequelae of tuberculosis,Tuberculosis,tb,176
+B20.0,HIV disease resulting in mycobacterial infection,Tuberculosis,tb,176
+A17,Tuberculosis of nervous system,Tuberculosis,tb,176
+J65,Pneumoconiosis associated with tuberculosis,Tuberculosis,tb,176
+D56.0,Alpha thalassaemia,Thalassaemia,thala,149
+D56.2,Delta-beta thalassaemia,Thalassaemia,thala,149
+D56.9,"Thalassaemia, unspecified",Thalassaemia,thala,149
+D56.8,Other thalassaemias,Thalassaemia,thala,149
+D56.1,Beta thalassaemia,Thalassaemia,thala,149
+E05.1,Thyrotoxicosis with toxic single thyroid nodule,Hypo or hyperthyroidism,thyroid,87
+E05.9,"Thyrotoxicosis, unspecified",Hypo or hyperthyroidism,thyroid,87
+E05.5,Thyroid crisis or storm,Hypo or hyperthyroidism,thyroid,87
+E06.3,Autoimmune thyroiditis,Hypo or hyperthyroidism,thyroid,87
+E05.2,Thyrotoxicosis with toxic multinodular goitre,Hypo or hyperthyroidism,thyroid,87
+E05.8,Other thyrotoxicosis,Hypo or hyperthyroidism,thyroid,87
+E03.9,"Hypothyroidism, unspecified",Hypo or hyperthyroidism,thyroid,87
+H06.2,Dysthyroid exophthalmos,Hypo or hyperthyroidism,thyroid,87
+E06.2,Chronic thyroiditis with transient thyrotoxicosis,Hypo or hyperthyroidism,thyroid,87
+E05.0,Thyrotoxicosis with diffuse goitre,Hypo or hyperthyroidism,thyroid,87
+E03.8,Other specified hypothyroidism,Hypo or hyperthyroidism,thyroid,87
+E06.5,Other chronic thyroiditis,Hypo or hyperthyroidism,thyroid,87
+E03.5,Myxoedema coma,Hypo or hyperthyroidism,thyroid,87
+E06.9,"Thyroiditis, unspecified",Hypo or hyperthyroidism,thyroid,87
+G45.1,Carotid artery syndrome (hemispheric),Transient ischaemic attack,tia,47
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Transient ischaemic attack,tia,47
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Transient ischaemic attack,tia,47
+G45.8,Other transient cerebral ischaemic attacks and related syndromes,Transient ischaemic attack,tia,47
+G46.1,Anterior cerebral artery syndrome,Transient ischaemic attack,tia,47
+G46.2,Posterior cerebral artery syndrome,Transient ischaemic attack,tia,47
+G45.0,Vertebro-basilar artery syndrome,Transient ischaemic attack,tia,47
+G45.4,Transient global amnesia,Transient ischaemic attack,tia,47
+G45.3,Amaurosis fugax,Transient ischaemic attack,tia,47
+G46.0,Middle cerebral artery syndrome,Transient ischaemic attack,tia,47
+G45.2,Multiple and bilateral precerebral artery syndromes,Transient ischaemic attack,tia,47
+G45.9,"Transient cerebral ischaemic attack, unspecified",Transient ischaemic attack,tia,47
+N14.1,"Nephropathy induced by other drugs, medicaments and biological substances",Tubulo-interstitial nephritis,tin,118
+N14.3,Nephropathy induced by heavy metals,Tubulo-interstitial nephritis,tin,118
+N14.4,"Toxic nephropathy, not elsewhere classified",Tubulo-interstitial nephritis,tin,118
+N15.8,Other specified renal tubulo-interstitial diseases,Tubulo-interstitial nephritis,tin,118
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",Tubulo-interstitial nephritis,tin,118
+N16.2,Renal tubulo-interstitial disorders in blood diseases and disorders involving the immune mechanism,Tubulo-interstitial nephritis,tin,118
+N15.9,"Renal tubulo-interstitial disease, unspecified",Tubulo-interstitial nephritis,tin,118
+N16.8,Renal tubulo-interstitial disorders in other diseases classified elsewhere,Tubulo-interstitial nephritis,tin,118
+N16.4,Renal tubulo-interstitial disorders in systemic connective tissue disorders,Tubulo-interstitial nephritis,tin,118
+N16.5,Renal tubulo-interstitial disorders in transplant rejection,Tubulo-interstitial nephritis,tin,118
+N14.2,"Nephropathy induced by unspecified drug, medicament or biological substance",Tubulo-interstitial nephritis,tin,118
+N14.0,Analgesic nephropathy,Tubulo-interstitial nephritis,tin,118
+N16.1,Renal tubulo-interstitial disorders in neoplastic diseases,Tubulo-interstitial nephritis,tin,118
+N16.3,Renal tubulo-interstitial disorders in metabolic diseases,Tubulo-interstitial nephritis,tin,118
+H93.1,Tinnitus,Tinnitus,tinnitus,84
+I45.3,Trifascicular block,Trifascicular block,trifasc_block,48
+G50.0,Trigeminal neuralgia,Trigeminal neuralgia,trigem_neur,227
+K51,Ulcerative colitis,Inflammatory Bowel Disease,ibd,71
+K26,Duodenal ulcer,Peptic ulcer disease,ulcer_peptic,77
+K28,Gastrojejunal ulcer,Peptic ulcer disease,ulcer_peptic,77
+K25,Gastric ulcer,Peptic ulcer disease,ulcer_peptic,77
+K27,"Peptic ulcer, site unspecified",Peptic ulcer disease,ulcer_peptic,77
+I20.0,Unstable angina,Unstable Angina,unstable_angina,49
+N39.4,Other specified urinary incontinence,Urinary Incontinence,urine_incont,119
+N39.3,Stress incontinence,Urinary Incontinence,urine_incont,119
+N20.9,"Urinary calculus, unspecified",Urolithiasis,urolithiasis,120
+N22.8,Calculus of urinary tract in other diseases classified elsewhere,Urolithiasis,urolithiasis,120
+N21.1,Calculus in urethra,Urolithiasis,urolithiasis,120
+N20.2,Calculus of kidney with calculus of ureter,Urolithiasis,urolithiasis,120
+N21.9,"Calculus of lower urinary tract, unspecified",Urolithiasis,urolithiasis,120
+N21.8,Other lower urinary tract calculus,Urolithiasis,urolithiasis,120
+N23,Unspecified renal colic,Urolithiasis,urolithiasis,120
+N20.0,Calculus of kidney,Urolithiasis,urolithiasis,120
+N20.1,Calculus of ureter,Urolithiasis,urolithiasis,120
+N13.2,Hydronephrosis with renal and ureteral calculous obstruction,Urolithiasis,urolithiasis,120
+N21.0,Calculus in bladder,Urolithiasis,urolithiasis,120
+L50,Urticaria,Urticaria,urticaria,238
+N34,Urethritis and urethral syndrome,Urinary Tract Infections,uti,177
+N30.9,"Cystitis, unspecified",Urinary Tract Infections,uti,177
+N29.1,Other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere,Urinary Tract Infections,uti,177
+N08.0,Glomerular disorders in infectious and parasitic diseases classified elsewhere,Urinary Tract Infections,uti,177
+N33.0,Tuberculous cystitis,Urinary Tract Infections,uti,177
+N29.0,Late syphilis of kidney,Urinary Tract Infections,uti,177
+N15.1,Renal and perinephric abscess,Urinary Tract Infections,uti,177
+N13.6,Pyonephrosis,Urinary Tract Infections,uti,177
+N37.0,Urethritis in diseases classified elsewhere,Urinary Tract Infections,uti,177
+N30.0,Acute cystitis,Urinary Tract Infections,uti,177
+N39.0,"Urinary tract infection, site not specified",Urinary Tract Infections,uti,177
+N10,Acute tubulo-interstitial nephritis,Urinary Tract Infections,uti,177
+N16.0,Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere,Urinary Tract Infections,uti,177
+I85,Oesophageal varices,Portal hypertension,portal_htn,79
+I98.3,Oesophageal varices with bleeding in diseases classified elsewhere,Portal hypertension,portal_htn,79
+I98.2,Oesophageal varices without bleeding in diseases classified elsewhere,Portal hypertension,portal_htn,79
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+A80,Acute poliomyelitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B30,Viral conjunctivitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A08.4,"Viral intestinal infection, unspecified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+A82,Rabies,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A60,Anogenital herpesviral [herpes simplex] infection,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A83,Mosquito-borne viral encephalitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B07,Viral warts,Viral diseases (excl chronic hepatitis/HIV),viral,178
+G05.1,"Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",Viral diseases (excl chronic hepatitis/HIV),viral,178
+A99,Unspecified viral haemorrhagic fever,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A94,Unspecified arthropod-borne viral fever,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B19,Unspecified viral hepatitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B94.2,Sequelae of viral hepatitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A91,Dengue haemorrhagic fever,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J17.1,Pneumonia in viral diseases classified elsewhere,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B91,Sequelae of poliomyelitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B25,Cytomegaloviral disease,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B26,Mumps,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B00,Herpesviral [herpes simplex] infections,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B06,Rubella [German measles],Viral diseases (excl chronic hepatitis/HIV),viral,178
+A08.2,Adenoviral enteritis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B15,Acute hepatitis A,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A84,Tick-borne viral encephalitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+A85,"Other viral encephalitis, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+B01,Varicella [chickenpox],Viral diseases (excl chronic hepatitis/HIV),viral,178
+B05,Measles,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B17,Other acute viral hepatitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A87,Viral meningitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J20.4,Acute bronchitis due to parainfluenza virus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+H67.1,Otitis media in viral diseases classified elsewhere,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A81.1,Subacute sclerosing panencephalitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A92,Other mosquito-borne viral fevers,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B34,Viral infection of unspecified site,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+A96,Arenaviral haemorrhagic fever,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A81.2,Progressive multifocal leukoencephalopathy,Viral diseases (excl chronic hepatitis/HIV),viral,178
+H62.1,Otitis externa in viral diseases classified elsewhere,Viral diseases (excl chronic hepatitis/HIV),viral,178
+G04.1,Tropical spastic paraplegia,Viral diseases (excl chronic hepatitis/HIV),viral,178
+M89.6,Osteopathy after poliomyelitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A08.1,Acute gastroenteropathy due to Norwalk agent,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A88,"Other viral infections of central nervous system, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+A08.0,Rotaviral enteritis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A63.0,Anogenital (venereal) warts,Viral diseases (excl chronic hepatitis/HIV),viral,178
+H19.1,Herpesviral keratitis and keratoconjunctivitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B33,"Other viral diseases, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+G02.0,Meningitis in viral diseases classified elsewhere,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B16,Acute hepatitis B,Viral diseases (excl chronic hepatitis/HIV),viral,178
+I41.1,Myocarditis in viral diseases classified elsewhere,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J20.7,Acute bronchitis due to echovirus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B94.1,Sequelae of viral encephalitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+P35,Congenital viral diseases,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J12,"Viral pneumonia, not elsewhere classified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+J21.8,Acute bronchiolitis due to other specified organisms,Viral diseases (excl chronic hepatitis/HIV),viral,178
+G53.0,Postzoster neuralgia,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B27,Infectious mononucleosis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J11,"Influenza, virus not identified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+J10,Influenza due to other identified influenza virus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A90,Dengue fever [classical dengue],Viral diseases (excl chronic hepatitis/HIV),viral,178
+B20.2,HIV disease resulting in cytomegaloviral disease,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J21.9,"Acute bronchiolitis, unspecified",Viral diseases (excl chronic hepatitis/HIV),viral,178
+J20.3,Acute bronchitis due to coxsackievirus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J20.6,Acute bronchitis due to rhinovirus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J21.0,Acute bronchiolitis due to respiratory syncytial virus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J20.5,Acute bronchitis due to respiratory syncytial virus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+M01.4,Rubella arthritis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+M01.5,Arthritis in other viral diseases classified elsewhere,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B20.3,HIV disease resulting in other viral infections,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A89,Unspecified viral infection of central nervous system,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A86,Unspecified viral encephalitis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J09,Influenza due to identified avian influenza virus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B97,Viral agents as the cause of diseases classified to other chapters,Viral diseases (excl chronic hepatitis/HIV),viral,178
+B02,Zoster [herpes zoster],Viral diseases (excl chronic hepatitis/HIV),viral,178
+A95,Yellow fever,Viral diseases (excl chronic hepatitis/HIV),viral,178
+J21.1,Acute bronchiolitis due to human metapneumovirus,Viral diseases (excl chronic hepatitis/HIV),viral,178
+A08.3,Other viral enteritis,Viral diseases (excl chronic hepatitis/HIV),viral,178
+P23.0,Congenital pneumonia due to viral agent,Viral diseases (excl chronic hepatitis/HIV),viral,178
+L80,Vitiligo,Vitiligo,vitiligo,239
+K56.2,Volvulus,Volvulus,volvulus,81
+I47.2,Ventricular tachycardia,Ventricular tachycardia,vt,51
+I82.3,Embolism and thrombosis of renal vein,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I82.0,Budd-Chiari syndrome,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I63.6,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I80.2,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I80.1,Phlebitis and thrombophlebitis of femoral vein,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I67.6,Nonpyogenic thrombosis of intracranial venous system,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I82.2,Embolism and thrombosis of vena cava,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
+I81,Portal vein thrombosis,Venous thromboembolic disease (Excl PE),vte_ex_pe,50
