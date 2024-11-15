@@ -3,9 +3,7 @@
 
 # What is this for?
 The purpose of this repository is to share data management and analysis code, phenotypes/ code lists, and full modelled risk estimates for the study: <br/>
-White B, Zakkak N, Renzi C, Rafiq M, Gonzalez-Izquierdo A, Denaxas S, Nicholson B D, Lyratzopoulos G, Barclay M. <br/>
-"Underlying disease risk among fatigued patients: a population-based cohort study in primary care." Br J Gen Pract. 2024;BJGP.2024.0093. <br/>
-Available from: https://bjgp.org/content/early/2024/07/31/BJGP.2024.0093 <br/>
+White B, Zakkak N, Renzi C, Rafiq M, Gonzalez-Izquierdo A, Denaxas S, Nicholson B D, Lyratzopoulos G, Barclay M. <br/> "Underlying disease risk among fatigued patients: a population-based cohort study in primary care." Br J Gen Pract. 2024;BJGP.2024.0093. <br/> Available from: https://bjgp.org/content/early/2024/07/31/BJGP.2024.0093 <br/>
 You can also view some of the results using this interactive tool: https://becky-white.shinyapps.io/fatigue_risk_map 
 
 
